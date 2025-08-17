@@ -1,0 +1,2 @@
+# doctor-oneword-domains
+List of doctor one word domain names with availability, expiration date, attractiveness, demand score.
