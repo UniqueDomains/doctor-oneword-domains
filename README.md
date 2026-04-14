@@ -1,10 +1,10 @@
-# Available .DOCTOR One-Word Domains (9,296)
+# Available .DOCTOR One-Word Domains (9,297)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C297%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C296%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C297%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -14,9 +14,9 @@ Daily-updated dataset of available and resale .doctor one-word domains from Uniq
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,297 rows · **Live catalog:** 9,296 domains
+**Public extract:** 9,297 rows · **Live catalog:** 9,297 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/doctor`  
 **Best for:** founders, investors, studios
 
@@ -79,10 +79,10 @@ print(df.head())
 | creative.doctor    | available | $14.99    | $151.99       | 92             | 45     | 8      | name.com                |
 | fun.doctor         | resell    | —         | —             | 122            | 62     | 3      | Go Canada Domains, LLC  |
 | beat.doctor        | premium   | —         | —             | 112            | 99     | 4      | —                       |
-| forge.doctor       | available | $14.99    | $151.99       | 62             | 44     | 5      | name.com                |
+| pop.doctor         | available | $14.99    | $151.99       | 82             | 44     | 3      | name.com                |
 | tesla.doctor       | resell    | —         | —             | 86             | 61     | 5      | GoDaddy.com, LLC        |
 | blue.doctor        | premium   | —         | —             | 92             | 99     | 4      | —                       |
-| wizard.doctor      | available | $14.99    | $151.99       | 118            | 43     | 6      | name.com                |
+| forge.doctor       | available | $14.99    | $151.99       | 62             | 44     | 5      | name.com                |
 | space.doctor       | resell    | —         | —             | 80             | 61     | 5      | Blue Razor Domains, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,297-row public sample | 9,296 live domains                               |
+| 9,297-row public sample | 9,297 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOCTOR One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOCTOR One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
