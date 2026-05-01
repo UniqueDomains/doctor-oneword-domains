@@ -1,10 +1,10 @@
-# Available .DOCTOR One-Word Domains (11,661)
+# Available .DOCTOR One-Word Domains (12,260)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C661%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C260%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .doctor one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,661 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,260 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,661 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,260 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/doctor`  
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | Books.doctor        | available | $154.98   | —             | 52             | 49     | 5      | namecheap                 |
 | cars.doctor         | resell    | —         | —             | 66             | 47     | 4      | Spaceship, Inc.           |
 | children.doctor     | premium   | $250      | —             | 68             | 21     | 8      | name.com                  |
-| Ryan.doctor         | available | $154.98   | —             | 60             | 44     | 4      | namecheap                 |
-| sun.doctor          | resell    | —         | —             | 78             | 46     | 3      | GoDaddy.com, LLC          |
-| matcha.doctor       | available | $14.99    | —             | 86             | 39     | 6      | name.com                  |
-| europe.doctor       | resell    | —         | —             | 68             | 36     | 6      | NameSilo, LLC             |
 | justin.doctor       | available | $14.99    | —             | 58             | 38     | 7      | name.com                  |
-| targets.doctor      | resell    | —         | —             | 54             | 10     | 7      | Go Australia Domains, LLC |
+| sun.doctor          | resell    | —         | —             | 78             | 46     | 3      | GoDaddy.com, LLC          |
 | partners.doctor     | available | $14.99    | —             | 61             | 32     | 8      | name.com                  |
-| breastcancer.doctor | resell    | —         | —             | 58             | 9      | 13     | GoDaddy.com, LLC          |
+| Amazons.doctor      | resell    | —         | —             | 60             | 12     | 7      | Go Canada Domains, LLC    |
 | William.doctor      | available | $154.98   | —             | 74             | 31     | 7      | namecheap                 |
-| videos.doctor       | available | $14.99    | —             | 52             | 30     | 6      | name.com                  |
+| targets.doctor      | resell    | —         | —             | 54             | 10     | 7      | Go Australia Domains, LLC |
 | heroes.doctor       | available | $14.99    | —             | 68             | 29     | 6      | name.com                  |
+| breastcancer.doctor | resell    | —         | —             | 58             | 9      | 13     | GoDaddy.com, LLC          |
 | quotes.doctor       | available | $14.99    | —             | 58             | 29     | 6      | name.com                  |
 | commonground.doctor | available | $14.99    | —             | 74             | 28     | 13     | name.com                  |
 | backyard.doctor     | available | $14.99    | —             | 80             | 27     | 9      | name.com                  |
 | tips.doctor         | available | $14.99    | —             | 80             | 26     | 4      | name.com                  |
 | trades.doctor       | available | $14.99    | —             | 71             | 26     | 6      | name.com                  |
-| has.doctor          | available | $14.99    | —             | 60             | 26     | 3      | name.com                  |
+| sites.doctor        | available | $14.99    | —             | 53             | 26     | 5      | name.com                  |
+| destination.doctor  | available | $14.99    | —             | 90             | 25     | 11     | name.com                  |
+| pops.doctor         | available | $14.99    | —             | 74             | 24     | 4      | name.com                  |
+| chem.doctor         | available | $14.99    | —             | 74             | 24     | 4      | name.com                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,661 live domains                              |
+| 1,000-row public sample | 12,260 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOCTOR One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOCTOR One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
