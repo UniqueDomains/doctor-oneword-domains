@@ -1,10 +1,10 @@
-# Available .DOCTOR One-Word Domains (12,260)
+# Available .DOCTOR One-Word Domains (12,268)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C260%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C268%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .doctor one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,260 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,268 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,260 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,268 domains · **Median ask:** $25.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/doctor`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                 |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
-| Books.doctor        | available | $154.98   | —             | 52             | 49     | 5      | namecheap                 |
-| cars.doctor         | resell    | —         | —             | 66             | 47     | 4      | Spaceship, Inc.           |
-| children.doctor     | premium   | $250      | —             | 68             | 21     | 8      | name.com                  |
-| justin.doctor       | available | $14.99    | —             | 58             | 38     | 7      | name.com                  |
-| sun.doctor          | resell    | —         | —             | 78             | 46     | 3      | GoDaddy.com, LLC          |
-| partners.doctor     | available | $14.99    | —             | 61             | 32     | 8      | name.com                  |
-| Amazons.doctor      | resell    | —         | —             | 60             | 12     | 7      | Go Canada Domains, LLC    |
-| William.doctor      | available | $154.98   | —             | 74             | 31     | 7      | namecheap                 |
-| targets.doctor      | resell    | —         | —             | 54             | 10     | 7      | Go Australia Domains, LLC |
-| heroes.doctor       | available | $14.99    | —             | 68             | 29     | 6      | name.com                  |
-| breastcancer.doctor | resell    | —         | —             | 58             | 9      | 13     | GoDaddy.com, LLC          |
-| quotes.doctor       | available | $14.99    | —             | 58             | 29     | 6      | name.com                  |
-| commonground.doctor | available | $14.99    | —             | 74             | 28     | 13     | name.com                  |
-| backyard.doctor     | available | $14.99    | —             | 80             | 27     | 9      | name.com                  |
-| tips.doctor         | available | $14.99    | —             | 80             | 26     | 4      | name.com                  |
-| trades.doctor       | available | $14.99    | —             | 71             | 26     | 6      | name.com                  |
-| sites.doctor        | available | $14.99    | —             | 53             | 26     | 5      | name.com                  |
-| destination.doctor  | available | $14.99    | —             | 90             | 25     | 11     | name.com                  |
-| pops.doctor         | available | $14.99    | —             | 74             | 24     | 4      | name.com                  |
-| chem.doctor         | available | $14.99    | —             | 74             | 24     | 4      | name.com                  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
+| tips.doctor     | available | $14.99    | —             | 80             | 26     | 4      | name.com                  |
+| Acup.doctor     | available | $154.98   | —             | 80             | 5      | 5      | namecheap                 |
+| girls.doctor    | available | $14.99    | —             | 83             | 23     | 5      | name.com                  |
+| finals.doctor   | available | $14.99    | —             | 80             | 7      | 6      | name.com                  |
+| barup.doctor    | available | $14.99    | —             | 82             | 2      | 6      | name.com                  |
+| getup.doctor    | available | $14.99    | —             | 82             | 14     | 6      | name.com                  |
+| Apples.doctor   | available | $154.98   | —             | 90             | 16     | 6      | namecheap                 |
+| edamame.doctor  | available | $14.99    | —             | 80             | 9      | 7      | name.com                  |
+| gearup.doctor   | available | $14.99    | —             | 80             | 16     | 7      | name.com                  |
+| playin.doctor   | available | $14.99    | —             | 80             | 10     | 7      | name.com                  |
+| QandA.doctor    | available | $154.98   | —             | 80             | 10     | 7      | namecheap                 |
+| Books.doctor    | available | $154.98   | —             | 52             | 49     | 5      | namecheap                 |
+| cars.doctor     | resell    | —         | —             | 66             | 47     | 4      | Spaceship, Inc.           |
+| children.doctor | premium   | $250      | —             | 68             | 21     | 8      | name.com                  |
+| justin.doctor   | available | $14.99    | —             | 58             | 38     | 7      | name.com                  |
+| sun.doctor      | resell    | —         | —             | 78             | 46     | 3      | GoDaddy.com, LLC          |
+| partners.doctor | available | $14.99    | —             | 61             | 32     | 8      | name.com                  |
+| Amazons.doctor  | resell    | —         | —             | 60             | 12     | 7      | Go Canada Domains, LLC    |
+| William.doctor  | available | $154.98   | —             | 74             | 31     | 7      | namecheap                 |
+| targets.doctor  | resell    | —         | —             | 54             | 10     | 7      | Go Australia Domains, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,260 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,268 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .doctor domains. The strongest options usually pair the .doctor ending with a word that feels medically relevant, easy to say, and easy to remember. In this set, some names read clearly within healthcare, while others are broader or more ambiguous, such as tips.doctor, Acup.doctor, Trex.doctor, and homes.doctor. That difference matters. Founders should favor names that feel credible and ownable for a real practice, service, or health brand. Investors should look for terms with obvious end-user fit and realistic resale logic relative to the median ask of 25.02, while staying alert to renewal burden and possible trademark issues on invented or branded-looking words.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize words that make clear sense with .doctor
+- Use memorability and credibility as the first screen
+- Check ask price against the 25.02 median
+- Review renewal burden and trademark exposure
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOCTOR One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOCTOR One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
