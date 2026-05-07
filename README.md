@@ -79,7 +79,7 @@ print(df.head())
 | cars.doctor     | resell    | —         | —             | 66             | 47     | 4      | Spaceship, Inc.           |
 | children.doctor | premium   | $250      | —             | 68             | 21     | 8      | name.com                  |
 | justin.doctor   | available | $14.99    | —             | 58             | 38     | 7      | name.com                  |
-| sun.doctor      | resell    | —         | —             | 78             | 46     | 3      | GoDaddy.com, LLC          |
+| sun.doctor      | resell    | —         | —             | 78             | 44     | 3      | GoDaddy.com, LLC          |
 | partners.doctor | available | $14.99    | —             | 61             | 32     | 8      | name.com                  |
 | Amazons.doctor  | resell    | —         | —             | 60             | 12     | 7      | Go Canada Domains, LLC    |
 | William.doctor  | available | $154.98   | —             | 74             | 31     | 7      | namecheap                 |

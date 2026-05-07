@@ -236,7 +236,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 14ac70b6-fe0e-440f-b835-d87767a4fbeb,rollout.doctor,available,14.99,,72,13,8,name.com,,
 14bfc6d3-26f6-4c3c-bde3-47927548c1bb,paperingover.doctor,available,14.99,,53,1,13,name.com,,
 14c18a5e-71ec-4ce9-a54c-38e6e99a97f8,slightest.doctor,available,14.99,,56,1,9,name.com,,
-14c984d5-0d7c-4aa1-8b20-d1b7265b5dd6,sun.doctor,resell,,,78,46,3,"GoDaddy.com, LLC",27/11/2020 03:44,27/11/2026 03:44
+14c984d5-0d7c-4aa1-8b20-d1b7265b5dd6,sun.doctor,resell,,,78,44,3,"GoDaddy.com, LLC",27/11/2020 03:44,27/11/2026 03:44
 15094327-1a18-406a-9d7b-ff71b0681349,instyle.doctor,available,14.99,,78,12,8,name.com,,
 150c7ac8-3f50-4fc9-8833-81903d0b166e,proves.doctor,available,14.99,,56,3,6,name.com,,
 155e8813-0645-4982-bb8e-346407679bd2,surroundings.doctor,available,14.99,,75,4,12,name.com,,
