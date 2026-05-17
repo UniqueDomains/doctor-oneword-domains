@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .doctor one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,276 domains · **Median ask:** $25.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/doctor`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | girls.doctor    | available | $14.99    | —             | 83             | 23     | 5      | name.com                  |
 | finals.doctor   | available | $14.99    | —             | 80             | 7      | 6      | name.com                  |
 | barup.doctor    | available | $14.99    | —             | 82             | 2      | 6      | name.com                  |
-| getup.doctor    | available | $14.99    | —             | 82             | 14     | 6      | name.com                  |
+| getup.doctor    | available | $14.99    | —             | 82             | 15     | 6      | name.com                  |
 | Apples.doctor   | available | $154.98   | —             | 90             | 16     | 6      | namecheap                 |
 | edamame.doctor  | available | $14.99    | —             | 80             | 9      | 7      | name.com                  |
 | gearup.doctor   | available | $14.99    | —             | 80             | 16     | 7      | name.com                  |
@@ -77,7 +77,7 @@ print(df.head())
 | QandA.doctor    | available | $154.98   | —             | 80             | 10     | 7      | namecheap                 |
 | Books.doctor    | available | $154.98   | —             | 52             | 49     | 5      | namecheap                 |
 | cars.doctor     | resell    | —         | —             | 66             | 47     | 4      | Spaceship, Inc.           |
-| children.doctor | premium   | $250      | —             | 68             | 21     | 8      | name.com                  |
+| children.doctor | premium   | $250      | —             | 68             | 19     | 8      | name.com                  |
 | justin.doctor   | available | $14.99    | —             | 58             | 38     | 7      | name.com                  |
 | sun.doctor      | resell    | —         | —             | 78             | 44     | 3      | GoDaddy.com, LLC          |
 | partners.doctor | available | $14.99    | —             | 61             | 32     | 8      | name.com                  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOCTOR One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOCTOR One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
