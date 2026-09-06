@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .doctor one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,306 domains · **Median ask:** $12.30 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/doctor`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| bob.doctor     | available | $14.99    | —             | high           | medium | 3      | name.com                                                  |
-| art.doctor     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 35                                         |
-| usa.doctor     | premium   | $500      | —             | high           | medium | 3      | name.com                                                  |
-| btw.doctor     | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
-| dad.doctor     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
-| fish.doctor    | premium   | $242      | $242          | high           | low    | 4      | namesilo                                                  |
-| cap.doctor     | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
-| map.doctor     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
-| fuck.doctor    | premium   | $854      | $854          | high           | high   | 4      | namesilo                                                  |
-| egg.doctor     | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
-| top.doctor     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
-| hawaii.doctor  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo                                                  |
-| Eid.doctor     | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
-| xxx.doctor     | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.                                           |
-| memory.doctor  | premium   | $500      | —             | high           | medium | 6      | name.com                                                  |
-| fly.doctor     | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
-| find.doctor    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| kingdom.doctor | premium   | $854      | $854          | high           | low    | 7      | namesilo                                                  |
-| had.doctor     | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
-| food.doctor    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 10                                         |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| just.doctor    | available | $14.99    | —             | high           | medium | 4      | name.com          |
+| room.doctor    | available | $14.99    | —             | high           | low    | 4      | name.com          |
+| fancy.doctor   | available | $14.99    | —             | high           | low    | 5      | name.com          |
+| brief.doctor   | available | $14.99    | $151.99       | high           | low    | 5      | name.com          |
+| perfect.doctor | resell    | —         | —             | high           | medium | 7      | Spaceship, Inc.   |
+| bob.doctor     | available | $14.99    | —             | high           | medium | 3      | name.com          |
+| art.doctor     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 35 |
+| usa.doctor     | premium   | $500      | —             | high           | medium | 3      | name.com          |
+| btw.doctor     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| dad.doctor     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.   |
+| fish.doctor    | premium   | $242      | $242          | high           | low    | 4      | namesilo          |
+| cap.doctor     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| map.doctor     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC  |
+| fuck.doctor    | premium   | $854      | $854          | high           | high   | 4      | namesilo          |
+| egg.doctor     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| top.doctor     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
+| hawaii.doctor  | premium   | $118.80   | $118.80       | high           | low    | 6      | namesilo          |
+| Eid.doctor     | available | $14.99    | —             | high           | low    | 3      | name.com          |
+| xxx.doctor     | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.   |
+| memory.doctor  | premium   | $500      | —             | high           | medium | 6      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOCTOR One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOCTOR One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
