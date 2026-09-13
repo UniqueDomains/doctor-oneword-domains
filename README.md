@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .doctor one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,451 domains · **Median ask:** $11.73 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-12
+**Last updated:** 2026-09-13
 **Canonical page:** `https://unique.domains/domains/tld/doctor`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| just.doctor    | available | $14.99    | —             | high           | medium | 4      | name.com                                                  |
+| room.doctor    | available | $14.99    | —             | high           | low    | 4      | name.com                                                  |
 | bob.doctor     | available | $14.99    | —             | high           | medium | 3      | name.com                                                  |
 | art.doctor     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 35                                         |
 | usa.doctor     | premium   | $500      | —             | high           | medium | 3      | name.com                                                  |
@@ -82,8 +84,6 @@ print(df.head())
 | fly.doctor     | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
 | find.doctor    | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
 | kingdom.doctor | premium   | $854      | $854          | high           | low    | 7      | namesilo                                                  |
-| had.doctor     | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
-| food.doctor    | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 10                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DOCTOR One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DOCTOR One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
