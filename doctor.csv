@@ -1,13 +1,13 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 5cb27ddf-46df-42df-b229-65495286696d,chips.doctor,available,14.99,,high,low,5,name.com,,,
-ff34d6ad-8702-48e2-a7fa-abd3445a4827,chance.doctor,available,14.99,,high,low,6,name.com,,,
+ff34d6ad-8702-48e2-a7fa-abd3445a4827,chance.doctor,available,14.49,116.99,medium,low,6,namesilo,,,23/09/2026 13:44
 d99f0340-6fb5-414c-8a00-af046baf17dd,documentation.doctor,available,14.99,,medium,low,13,name.com,,,
 51165e9a-6294-45a1-9178-b3b6ec5d19dc,bread.doctor,available,5.98,154.98,medium,low,5,namecheap,,,08/09/2026 03:15
-8f0057a6-89e7-4df8-add7-27562dfe2579,required.doctor,available,14.99,151.99,medium,low,8,name.com,,,
+8f0057a6-89e7-4df8-add7-27562dfe2579,required.doctor,available,5.98,154.98,low,low,8,namecheap,,,23/09/2026 18:27
 d640b268-249b-40c9-9e8f-769a0f5e5685,damascus.doctor,available,14.99,,medium,low,8,name.com,,,
 ccd06e16-d310-411a-9188-f81e39264d64,critique.doctor,available,14.99,,high,low,8,name.com,,,
-28d34268-7055-430c-b805-715e0d4391b6,covert.doctor,available,14.99,151.99,medium,low,6,name.com,,,
-229fb0b8-ed33-4eca-84fb-2b1615bb399f,television.doctor,resell,,,medium,low,10,"GoDaddy.com, LLC",26/03/2019 18:53,26/03/2027 18:53,20/09/2026 02:37
+28d34268-7055-430c-b805-715e0d4391b6,covert.doctor,available,14.49,116.99,low,low,6,namesilo,,,24/09/2026 00:53
+229fb0b8-ed33-4eca-84fb-2b1615bb399f,television.doctor,resell,,,medium,low,10,"GoDaddy.com, LLC",26/03/2019 18:53,26/03/2027 18:53,23/09/2026 06:07
 a27fd58d-dbd7-4b1d-8393-5a98d8d3f97f,beating.doctor,available,14.99,,high,low,7,name.com,,,
 5cdc0d0d-3cde-4833-9677-ca8bff50514e,haveseenthisfilm.doctor,available,14.99,,medium,low,19,name.com,,,
 17b5925f-e643-4667-b755-3d903c4d50da,jacobs.doctor,available,14.99,,high,low,6,name.com,,,
@@ -15,8 +15,7 @@ a27fd58d-dbd7-4b1d-8393-5a98d8d3f97f,beating.doctor,available,14.99,,high,low,7,
 ed8a1ebd-85b4-4ee0-b0ca-6e112875cc59,advice.doctor,available,14.99,,high,low,6,name.com,,,
 92251eb1-c1c6-4a40-a198-1159a856a324,shoulderblade.doctor,available,14.99,,medium,low,14,name.com,,,
 0e65aa65-2f95-4c14-bd1a-764272882a05,deadly.doctor,available,14.49,116.99,low,low,6,namesilo,,,22/09/2026 16:43
-33f6e9fa-118a-4522-b17c-bee872d4dce2,famous.doctor,resell,,,high,low,6,"Go Montenegro Domains, LLC",02/11/2016 16:00,02/11/2026 16:00,
-26d2842c-4c44-41f9-b84f-d73d5a0d160a,superb.doctor,available,14.99,,high,low,6,name.com,,,
+26d2842c-4c44-41f9-b84f-d73d5a0d160a,superb.doctor,available,14.49,116.99,medium,low,6,namesilo,,,23/09/2026 09:28
 6699d843-ed35-46af-b373-e54b4b9112a7,generalizeddisease.doctor,available,14.99,,low,low,19,name.com,,,
 5c026322-8dbb-4265-bbf4-9a6f0f4cfdce,maddened.doctor,available,5.98,154.98,low,low,8,namecheap,,,
 f0e849cd-a87c-4ca4-9655-802386d5eb65,amusing.doctor,available,5.98,154.98,low,low,7,namecheap,,,
@@ -79,9 +78,9 @@ c480add4-c552-46f5-b707-50604e52b561,granddad.doctor,available,14.99,,high,low,8
 9c449683-032d-4c3f-8450-e3e52b2aec52,longest.doctor,available,14.99,,medium,low,7,name.com,,,
 fdacafc3-322f-4d16-b545-592fff395d58,arithmetic.doctor,available,14.49,116.99,low,low,10,namesilo,,,22/09/2026 07:53
 e7c3d80f-5b08-49c5-a1c3-984382050917,glory.doctor,available,14.99,,high,low,5,name.com,,,
-b5a64952-910e-46c8-8840-e62da41264ac,changing.doctor,available,14.99,,medium,low,8,name.com,,,
+b5a64952-910e-46c8-8840-e62da41264ac,changing.doctor,available,14.49,116.99,low,low,8,namesilo,,,23/09/2026 13:46
 034873a7-23ea-4ccd-ac02-1e368e352293,carrie.doctor,available,14.99,,high,low,6,name.com,,,
-94b40c27-e97e-4985-bd14-7381d350d3cb,compact.doctor,available,14.99,151.99,high,low,7,name.com,,,
+94b40c27-e97e-4985-bd14-7381d350d3cb,compact.doctor,available,14.49,116.99,medium,low,7,namesilo,,,23/09/2026 16:18
 e9f8e65d-4b4d-41b8-ae8d-103d3351b300,kingdom.doctor,premium,854,854,high,low,7,namesilo,,,
 c2f79eb5-4077-4450-820a-09880722c030,plaguy.doctor,available,5.98,154.98,low,low,6,namecheap,,,
 b110f335-794e-45c9-b070-1c7c56a4320d,naturewriting.doctor,available,14.99,,low,low,14,name.com,,,
@@ -117,7 +116,7 @@ cbaac3f4-9054-4c28-8487-5ba92f0f04e2,maze.doctor,available,14.99,,medium,low,4,n
 dae397a6-1693-4d7d-86c0-f28ac633f340,getthebetterof.doctor,available,14.99,,high,low,17,name.com,,,
 99118cca-416d-4d12-93bf-4449b930042a,provider.doctor,available,14.99,,high,low,8,name.com,,,
 62f32a11-bb23-4ca0-8c60-1b40f04a8a9e,aboutship.doctor,available,14.99,,medium,low,10,name.com,,,
-257b0b89-68a2-4b4c-831e-090d6a0824c7,scornful.doctor,available,14.99,151.99,medium,low,8,name.com,,,
+257b0b89-68a2-4b4c-831e-090d6a0824c7,scornful.doctor,available,14.49,116.99,low,low,8,namesilo,,,23/09/2026 21:53
 4ee6fcbc-e9c9-4a4a-b513-a580c41caa63,sixtysix.doctor,available,5.98,154.98,low,low,9,namecheap,,,
 14b3b7e8-23bd-4403-8136-1fed785ec903,invalid.doctor,available,,,high,low,7,,,,
 8e3cb5d0-3110-4f07-92fc-9b5c1071c346,oldgeezer.doctor,available,5.98,154.98,low,low,10,namecheap,,,05/08/2026 19:25
@@ -128,7 +127,7 @@ b4ee9fcb-ccbd-4671-9796-c144d2d72cff,prominent.doctor,available,14.99,,high,low,
 f3053190-b19f-47ef-9ee3-b4136aee7631,suspense.doctor,available,14.99,,high,low,8,name.com,,,
 acb33769-983d-4c68-a013-b391ef825fc1,climbable.doctor,available,5.98,154.98,low,low,9,namecheap,,,07/08/2026 00:10
 aadeb61c-e553-4c83-b030-ffaca24f4621,pleasant.doctor,available,14.99,,high,low,8,name.com,,,
-9aaf8a6b-4ef4-442f-a84e-1c3afdaa2e40,continued.doctor,available,14.99,151.99,high,low,9,name.com,,,
+9aaf8a6b-4ef4-442f-a84e-1c3afdaa2e40,continued.doctor,available,14.49,116.99,medium,low,9,namesilo,,,23/09/2026 22:14
 f53f10e0-7475-4ebc-83f0-0141385f77ad,amnic.doctor,available,5.98,154.98,low,low,5,namecheap,,,
 f31b9263-0f78-4c89-ab22-0f723b67ec7a,sunroof.doctor,available,14.99,,high,low,7,name.com,,,
 937722b7-ebc9-4eaa-826b-af75f9e77dab,boundary.doctor,available,14.49,116.99,low,low,8,namesilo,,,23/09/2026 01:32
@@ -143,10 +142,10 @@ f31b9263-0f78-4c89-ab22-0f723b67ec7a,sunroof.doctor,available,14.99,,high,low,7,
 749d61cc-36c4-4f6d-9686-90962e24301a,carriage.doctor,available,14.99,,medium,low,8,name.com,,,
 2a27d834-b8fd-4749-804f-bfa7fccb11d3,affected.doctor,available,5.98,154.98,low,low,8,namecheap,,,
 31025e38-0576-4d16-bc52-cc80197dedce,phoney.doctor,available,5.98,154.98,low,low,6,namecheap,,,08/08/2026 23:14
-de1d2d46-7d51-4e11-8820-e6d75f02d9df,corny.doctor,available,14.99,151.99,medium,low,5,name.com,,,
+de1d2d46-7d51-4e11-8820-e6d75f02d9df,corny.doctor,available,5.98,154.98,low,low,5,namecheap,,,23/09/2026 23:25
 b60ad633-87e8-4419-893d-5a51aa7613ae,araceous.doctor,available,5.98,154.98,low,low,8,namecheap,,,06/08/2026 11:36
 7dfaa18b-1d02-4566-8abb-cd1eafdbe5b0,revelatory.doctor,available,5.98,154.98,low,low,10,namecheap,,,06/08/2026 00:55
-5a38dc99-4252-4f6e-951e-478808d7ab91,parody.doctor,available,14.99,,high,low,6,name.com,,,
+5a38dc99-4252-4f6e-951e-478808d7ab91,parody.doctor,available,14.49,116.99,medium,low,6,namesilo,,,23/09/2026 11:34
 a5b59a82-1960-4998-bac0-11dbd91084c6,flipthebird.doctor,available,14.99,,medium,low,13,name.com,,,
 ede57024-e22f-4a77-9af9-b18b6e9b6a6a,payfor.doctor,available,14.99,,high,low,7,name.com,,,
 e5cd6ba5-2c7c-43be-9b14-1930065d92a6,bedridden.doctor,available,5.98,154.98,low,low,9,namecheap,,,09/08/2026 07:02
@@ -230,7 +229,7 @@ de8523a8-f388-45fb-800c-01159371b150,godutch.doctor,available,14.99,,medium,low,
 baf27a1a-e2be-4d95-a827-7a4c97acac54,proud.doctor,available,14.99,,high,low,5,name.com,,,
 c8a94488-7451-4378-8407-4f2b94d914a6,letthecatout.doctor,available,14.99,,high,low,15,name.com,,,
 0bfd82cb-eb95-41af-bd46-c5aa17eba68f,agelong.doctor,available,5.98,154.98,low,low,7,namecheap,,,
-d77156ef-f45b-4116-b910-909ebaff58ae,flop.doctor,available,14.99,,medium,low,4,name.com,,,
+d77156ef-f45b-4116-b910-909ebaff58ae,flop.doctor,available,14.49,116.99,low,low,4,namesilo,,,23/09/2026 12:03
 7d8deb94-8e99-49e4-9eb1-abca3c92a3d9,upper.doctor,available,14.99,,high,low,5,name.com,,,
 f94351e6-2e30-475a-aabb-50e93ca2fb4c,plane.doctor,available,14.99,,high,low,5,name.com,,,
 f84b7353-41d6-4c02-9ce9-4a3539c5a218,wharf.doctor,available,14.99,,high,low,5,name.com,,,
@@ -264,7 +263,7 @@ d79edbf1-6053-4dd7-bf4f-6bca8e587112,simultaneously.doctor,available,14.99,,low,
 948b78f3-6d50-4fe8-8f96-80371a6c24fb,taken.doctor,available,14.99,,high,low,5,name.com,,,
 312534e8-10b4-4ee2-99a0-5115971ecaf1,amygdaloid.doctor,available,5.98,154.98,low,low,10,namecheap,,,
 c2a788ff-458a-43fe-8087-e2ff2c0525b6,aerated.doctor,available,5.98,154.98,low,low,7,namecheap,,,
-912c7863-0937-445c-bf57-bc609a82e673,pervert.doctor,available,14.99,151.99,high,low,7,name.com,,,
+912c7863-0937-445c-bf57-bc609a82e673,pervert.doctor,available,14.49,116.99,low,low,7,namesilo,,,23/09/2026 23:54
 917339fa-e92d-4003-b4b0-94c04d95559f,keepcompany.doctor,available,14.99,,high,low,12,name.com,,,
 129f610e-e2e6-425a-8d0b-8ea5a741b089,creature.doctor,available,14.49,116.99,low,low,8,namesilo,,,22/09/2026 04:42
 9242cf96-7cfc-44ea-bf16-11f1ec5f4894,together.doctor,available,14.99,,high,medium,8,name.com,,,
@@ -280,7 +279,6 @@ b4ad23ed-b1e2-460c-a05c-07f9483bbd6b,airdried.doctor,available,5.98,154.98,low,l
 35141a67-1655-4013-ae62-eee1452f9837,instagrammable.doctor,available,14.99,,high,low,14,name.com,,,
 315a41cd-21cf-42f7-9a59-424aa7fa518b,commonkiwi.doctor,available,14.99,,medium,low,11,name.com,,,
 d3cefe69-75a8-406c-8a9f-9679275c5a00,batman.doctor,available,14.99,,high,low,6,name.com,,,
-454a02f0-a27d-4e24-acc6-7ea4f75d2e9f,yellow.doctor,resell,,,high,low,6,"Go Australia Domains, LLC",02/11/2016 16:00,02/11/2026 16:00,
 a7acbfd3-a61a-4a55-977d-29ae8cd6828d,solely.doctor,available,5.98,154.98,low,low,6,namecheap,,,
 6fd5aeb3-f808-4a52-84f8-30244dbcc646,tightfitting.doctor,available,14.99,,medium,low,13,name.com,,,
 86c43618-5240-4453-8a8a-083dcccb666e,aftuh.doctor,available,14.99,,medium,low,5,name.com,,,
@@ -346,7 +344,7 @@ edc51dc9-ffa3-460a-822a-907ca1a6e1f0,atilt.doctor,available,5.98,154.98,low,low,
 2247505c-8fe7-43f4-b48b-6f4db1bf1c72,legion.doctor,available,14.99,,high,low,6,name.com,,,
 330d1ac1-d616-494c-82f9-91076f05ca69,xii.doctor,available,14.49,116.99,low,low,3,namesilo,,,21/09/2026 11:25
 cfc375e9-9ddd-43f4-a079-224121fbf1ef,aflutter.doctor,available,5.98,154.98,low,low,8,namecheap,,,
-799615e3-03cf-4fc3-ac2b-772d5d8e2fda,spiral.doctor,available,14.99,,high,low,6,name.com,,,
+799615e3-03cf-4fc3-ac2b-772d5d8e2fda,spiral.doctor,available,14.49,116.99,medium,low,6,namesilo,,,23/09/2026 14:59
 bd0301f9-95cf-4f5f-89e3-1f58afb39668,toll.doctor,available,,,medium,low,4,,,,
 0d451f41-d97c-4787-b23d-4cf0cde785ea,paunchy.doctor,available,5.98,154.98,low,low,7,namecheap,,,
 25557c2e-6e1d-445e-ae60-50bc8df847b9,pissed.doctor,available,5.98,154.98,low,low,6,namecheap,,,
@@ -407,7 +405,6 @@ a0d37a38-2a7d-4a2e-af1c-e7f2fb2f272e,chorus.doctor,available,14.99,,high,low,6,n
 5c21c6f3-024f-4908-9593-95002a64f6b9,useful.doctor,available,14.99,,high,low,6,name.com,,,
 8ede90a4-c0cc-4fd7-9e5d-e5c7476d41b8,eastern.doctor,available,14.99,151.99,high,low,7,name.com,,,
 35763d9f-1096-4fdc-904a-608f422cfa72,courses.doctor,available,14.99,,high,low,7,name.com,,,
-5ef8792f-838e-4bb7-9b3a-65002408180c,powerful.doctor,available,,,high,high,8,,,,
 7f38d4e6-7c82-4102-9c29-e0b5c4f75eea,shavingoil.doctor,available,14.99,,medium,low,11,name.com,,,
 75557f8b-0242-4571-ae75-43581c642bcd,slope.doctor,available,14.99,,high,low,5,name.com,,,
 de8b918f-e513-446d-ace2-d2cbf8546a9d,fridge.doctor,available,14.99,,high,low,6,name.com,,,
@@ -429,7 +426,7 @@ a48467a7-7fee-49ee-83c6-0182920c40d5,abasic.doctor,available,5.98,154.98,low,low
 24ff8b73-2c48-406f-b364-c9d96c029a64,airfreshener.doctor,available,14.99,,high,low,13,name.com,,,
 698c3aff-9002-4165-93f2-2d35212a0590,organ.doctor,available,14.99,,high,low,5,name.com,,,
 8aab30c5-5e8b-4107-addb-5488eb5e4474,lookinto.doctor,available,14.99,,high,low,9,name.com,,,
-3cb05b63-052d-42d0-9e80-1b47cd0df46b,markets.doctor,available,14.49,116.99,low,low,7,namesilo,,,19/09/2026 05:44
+3cb05b63-052d-42d0-9e80-1b47cd0df46b,markets.doctor,available,5.98,154.98,low,low,7,namecheap,,,23/09/2026 06:42
 6fc5309e-a22e-408f-b20c-4e264c2b2a23,late.doctor,available,5.98,154.98,medium,low,4,namecheap,,,22/09/2026 19:16
 41c87bab-2df6-4574-8a1a-7f10bcc544fb,clowning.doctor,available,14.99,,medium,low,8,name.com,,,
 af995099-ea70-43c9-a89c-4488dccef6db,raisehell.doctor,available,14.99,,low,low,10,name.com,,,
@@ -480,7 +477,6 @@ b01ca657-b671-425b-b599-38f434e9483d,askance.doctor,available,5.98,154.98,low,lo
 9020fe7c-a911-4b55-b26e-095477bef869,eachyear.doctor,available,14.99,,medium,low,9,name.com,,,
 d8937821-83a4-479b-89b2-63fc2cf2cd85,boxcoat.doctor,available,14.99,,medium,low,8,name.com,,,
 f848ef84-6ac5-430b-816d-6ab7035f8242,sextet.doctor,available,5.98,154.98,low,low,6,namecheap,,,
-c9ddb052-3b8b-409f-a54a-6d3819642efd,axle.doctor,available,,,high,low,4,,,,
 f6c4f125-bd43-4e02-aed1-472b9230efbf,montreal.doctor,available,14.99,,medium,low,8,name.com,,,
 3ad5c5be-9fdf-46dc-8bfe-fb1ef2db0be4,literally.doctor,available,14.99,,medium,low,9,name.com,,,
 61110487-22a4-43e8-9e9f-424267854d9c,pub.doctor,available,14.99,,high,low,3,name.com,,,
@@ -489,7 +485,7 @@ f6c4f125-bd43-4e02-aed1-472b9230efbf,montreal.doctor,available,14.99,,medium,low
 04a107a8-8de3-4e1b-a82f-756a1e630502,oldest.doctor,available,14.99,,high,low,6,name.com,,,
 5ecf9304-8e07-4fc8-a06d-e5add86e6b6a,supposedly.doctor,available,14.99,,medium,low,10,name.com,,,
 b7348dc3-04da-4afc-b0bb-39d2f9721cc4,longisland.doctor,available,14.99,,medium,low,11,name.com,,,
-2c68fd3e-cf83-47ab-aacb-b773bb7a85ee,preventive.doctor,available,14.99,151.99,high,low,10,name.com,,,
+2c68fd3e-cf83-47ab-aacb-b773bb7a85ee,preventive.doctor,available,14.49,116.99,medium,low,10,namesilo,,,23/09/2026 22:24
 81a3663d-783b-4496-aac0-db52ac2f0d3e,taxation.doctor,available,14.99,,medium,low,8,name.com,,,
 bc4ceee4-d12a-44a3-ad53-a8b1fbde7d1b,childbenefit.doctor,available,14.99,,medium,low,13,name.com,,,
 1eaea2e3-0b9c-4282-9642-e276f34be7f2,wording.doctor,available,14.99,,high,low,7,name.com,,,
@@ -506,11 +502,11 @@ f223a58a-c0b1-4bf0-b306-976f97f6a551,animistic.doctor,available,5.98,154.98,low,
 1bae8173-f554-4633-88e7-12b45bcf4f68,americas.doctor,resell,,,medium,low,8,"Go Montenegro Domains, LLC",02/11/2016 16:00,02/11/2026 16:00,
 af5eaf48-8c38-4b6f-ab94-108680a34e50,windmill.doctor,available,5.98,154.98,low,low,9,namecheap,,,17/09/2026 13:01
 3962fed3-175d-4814-9b3c-3da2216f2848,thereagain.doctor,available,14.99,,low,low,11,name.com,,,
-f8f454a5-0de1-4314-8f44-4a5908ed5e9b,masterful.doctor,available,14.99,151.99,high,low,9,name.com,,,
+f8f454a5-0de1-4314-8f44-4a5908ed5e9b,masterful.doctor,available,5.98,154.98,medium,low,9,namecheap,,,23/09/2026 21:35
 45c12dab-4cae-48ab-b8c9-7a4e4b150760,mist.doctor,available,14.99,,medium,low,4,name.com,,,
 02511bdf-e7ca-47a5-ad5a-c45bd1dbd899,abscessed.doctor,available,,,low,low,9,,,,
 99d49e88-a6b3-40e4-b0a8-b4984da61650,oddmanwins.doctor,available,14.99,,low,low,12,name.com,,,
-d85145b9-a2a3-4255-8f5b-62e5cee56c6e,chip.doctor,available,14.99,151.99,high,low,4,name.com,,,
+d85145b9-a2a3-4255-8f5b-62e5cee56c6e,chip.doctor,available,5.98,154.98,medium,low,4,namecheap,,,24/09/2026 01:56
 76fdf157-2206-480e-a831-1b8ae72759c9,socialliberal.doctor,available,14.99,,low,low,14,name.com,,,
 0c703690-9db3-4b75-8844-4dd5e999dd68,parenting.doctor,available,14.99,,high,low,9,name.com,,,
 b7370251-2358-4e03-939e-15f859818adc,refreshed.doctor,available,14.99,,high,low,9,name.com,,,
@@ -518,7 +514,7 @@ b7370251-2358-4e03-939e-15f859818adc,refreshed.doctor,available,14.99,,high,low,
 dd634c9c-0662-4f94-9f87-2c3bab7b7876,flush.doctor,available,5.98,154.98,medium,low,5,namecheap,,,
 48b8e831-0f01-4824-ac9c-1857017a0ae8,rescheduling.doctor,available,14.99,,medium,low,12,name.com,,,
 a43630af-9519-4e16-b176-43a657ab798a,barbadian.doctor,available,5.98,154.98,low,low,9,namecheap,,,08/08/2026 15:21
-c37c8020-8264-4871-bc53-61e421523fe4,confirming.doctor,available,14.99,151.99,high,low,10,name.com,,,
+c37c8020-8264-4871-bc53-61e421523fe4,confirming.doctor,available,5.98,154.98,medium,low,10,namecheap,,,23/09/2026 19:45
 35fc49ff-8325-4e07-8384-36437733a5f1,prick.doctor,available,5.98,154.98,low,low,5,namecheap,,,08/08/2026 23:38
 55b6bb41-c51a-4e5b-8bc1-6c3ffbe43c9d,anticlinal.doctor,available,5.98,154.98,low,low,10,namecheap,,,
 7158ff13-f9ff-414a-9f0c-ffef326f2b2f,tongue.doctor,available,14.99,,medium,low,6,name.com,,,
@@ -572,14 +568,14 @@ a34e14d7-879f-4b97-a2c5-69c12b038baa,remember.doctor,available,14.99,,high,low,8
 5c954ec1-f66f-4e9b-a887-0225cb9a7af1,increasing.doctor,available,14.99,,high,low,10,name.com,,,
 bbfcd877-d65f-417c-a6d5-2b762c6a7ce7,sniff.doctor,available,14.99,,high,low,5,name.com,,,
 70016efa-045a-4259-87c7-5d65ee43ee38,monday.doctor,available,14.99,,high,low,6,name.com,,,
-16abf0af-a167-440d-b9ff-d925584f334e,comforted.doctor,available,14.99,,high,low,9,name.com,,,
+16abf0af-a167-440d-b9ff-d925584f334e,comforted.doctor,available,5.98,154.98,medium,low,9,namecheap,,,23/09/2026 15:14
 e899bc5b-c849-4fd8-b4c6-84cf45ad4c40,stillborn.doctor,available,5.98,154.98,low,low,9,namecheap,,,
-0f65d83c-320a-43e2-9fd9-f70785f1d813,usage.doctor,available,14.99,151.99,high,low,5,name.com,,,
+0f65d83c-320a-43e2-9fd9-f70785f1d813,usage.doctor,available,5.98,154.98,medium,low,5,namecheap,,,24/09/2026 04:06
 164b9421-2c12-4b15-b694-ba1fd59756b0,signin.doctor,available,5.98,154.98,medium,low,7,namecheap,,,17/09/2026 03:42
 b4407fec-69ed-43c4-a538-5d61cc73b323,airmarshal.doctor,available,14.99,,high,low,11,name.com,,,
 fdbd5d0a-7735-4fef-afad-437669499bae,demoniac.doctor,available,5.98,154.98,low,low,8,namecheap,,,
 c87c7c1f-8e1f-4ef0-b62a-ca2ae7adf1da,onthepointof.doctor,available,14.99,,medium,low,15,name.com,,,
-fcb455ef-6887-4848-8eef-f0fabffa1367,builtin.doctor,available,14.99,,high,low,8,name.com,,,
+fcb455ef-6887-4848-8eef-f0fabffa1367,builtin.doctor,available,14.49,116.99,medium,low,8,namesilo,,,23/09/2026 10:27
 a58e901c-384c-4605-a901-5f275473a862,expand.doctor,available,14.99,151.99,high,low,6,name.com,,,
 34db7ca3-5b75-431b-bf0a-5dded3202d05,complement.doctor,available,14.99,,high,low,10,name.com,,,
 7635bc3c-d1d4-430c-9046-a36c2b182ec7,agraphic.doctor,available,5.98,154.98,low,low,8,namecheap,,,
@@ -601,7 +597,7 @@ ecaa5186-e145-447b-b496-d95576cda997,troublemaker.doctor,available,14.99,,medium
 cfdf1146-0b03-433d-b12c-610acc273896,successful.doctor,available,14.99,,high,low,10,name.com,,,
 e516fbfd-fbfd-4731-a4d3-9cdfc38c83d8,generalgoods.doctor,available,14.99,,medium,low,13,name.com,,,
 e09273a9-f759-405b-a229-b581753587ed,aligning.doctor,available,5.98,154.98,low,low,8,namecheap,,,
-d4c3f792-68cb-4e2e-8b03-f7315a993af6,defend.doctor,available,14.99,,high,low,6,name.com,,,
+d4c3f792-68cb-4e2e-8b03-f7315a993af6,defend.doctor,available,5.98,154.98,medium,low,6,namecheap,,,23/09/2026 13:40
 857d215b-c44e-4922-9709-7b621352535e,plug.doctor,available,14.99,,high,low,4,name.com,,,
 03fe1a3d-4184-4011-ab75-31fce2f7e377,aufait.doctor,available,5.98,154.98,low,low,7,namecheap,,,
 dbe6e355-a2e0-46ba-b2b5-fcbd87cf6843,blueraspberry.doctor,available,14.99,,high,low,14,name.com,,,
@@ -616,7 +612,7 @@ ba3b4140-d1df-4b81-930b-0414bda44345,nourishing.doctor,available,5.98,154.98,med
 a24814e1-c0ee-4288-b75c-8f1814c363a6,apostolic.doctor,available,5.98,154.98,low,low,9,namecheap,,,06/08/2026 04:04
 d541e620-4d3b-4093-9044-f7d72f8c5508,shooting.doctor,available,14.99,,medium,low,8,name.com,,,
 25bac3d0-a006-4bb4-918b-cf685aaf0670,getting.doctor,available,14.99,,high,low,7,name.com,,,
-c054a163-4ed4-43ff-94e9-3e92ce6ff701,creepy.doctor,available,14.99,151.99,medium,low,6,name.com,,,
+c054a163-4ed4-43ff-94e9-3e92ce6ff701,creepy.doctor,available,14.49,116.99,low,low,6,namesilo,,,24/09/2026 01:42
 326990ae-5045-4850-8569-9c3a4b4dfcc0,lookatme.doctor,available,14.99,,medium,low,10,name.com,,,
 1794413b-5b2e-4abe-a9fc-1427cc41d32f,outlet.doctor,available,14.99,,high,low,6,name.com,,,
 18b41283-3aee-4bba-abcd-217f3e671579,explorer.doctor,available,14.99,,high,low,8,name.com,,,
@@ -670,7 +666,7 @@ b2aed8c8-28ff-4453-b07a-df36138bce39,crossroads.doctor,available,14.99,,medium,l
 ee73a326-4923-4a14-8504-b3be23383946,elaborate.doctor,available,14.99,151.99,high,low,9,name.com,,,
 09b89ff0-98e7-473e-aad8-f9d959ec0bde,receipts.doctor,available,14.99,,medium,low,8,name.com,,,
 8cb58d55-5b1e-43e1-8c10-7d71be1b7cbd,aminic.doctor,available,5.98,154.98,low,low,6,namecheap,,,
-7fe0ae2d-0803-4f5d-ab92-5ab507bcc7ea,compound.doctor,available,14.99,151.99,high,low,8,name.com,,,
+7fe0ae2d-0803-4f5d-ab92-5ab507bcc7ea,compound.doctor,available,5.98,154.98,medium,low,8,namecheap,,,23/09/2026 17:56
 b93376ef-484b-4f0d-b5f0-2bbb4abab595,because.doctor,available,14.99,,high,low,7,name.com,,,
 bff2732c-a1e0-4008-aa2f-dd162e90f5be,whacky.doctor,available,5.98,154.98,low,low,6,namecheap,,,06/08/2026 21:32
 5d2a49bf-55dd-4dd4-a839-e5da3f2c3786,summertire.doctor,available,14.99,,high,low,11,name.com,,,
@@ -691,7 +687,7 @@ e11d2f63-f4f2-44d2-a184-4c194d7680b9,acrogenous.doctor,available,5.98,154.98,low
 3b425243-215b-490e-a6f5-aad106615fcc,pin.doctor,available,14.99,,high,low,3,name.com,,,
 e5770604-3033-4cad-83d6-856de26ede8f,littleblackdress.doctor,available,14.99,,high,low,18,name.com,,,
 3929e42d-0228-446c-a346-8ce88202cdb4,cleverly.doctor,available,14.99,,medium,low,8,name.com,,,
-8420ecb3-4422-4e49-8522-2be1c755c655,logo.doctor,available,14.99,,medium,low,4,name.com,,,
+8420ecb3-4422-4e49-8522-2be1c755c655,logo.doctor,available,14.49,116.99,medium,low,4,namesilo,,,23/09/2026 08:54
 a31f375f-1e64-4d65-9b96-a5eb7e9d40b8,routine.doctor,available,14.99,,high,low,7,name.com,,,
 8041b92b-f58d-485d-ba7e-de4130f9cb38,leadership.doctor,available,14.99,,high,low,10,name.com,,,
 a5eaf20f-594d-4346-ac40-3d1caaaced24,jupiter.doctor,available,14.99,,high,low,7,name.com,,,
@@ -717,7 +713,7 @@ d1d1f332-cbc7-46d8-b097-6028817cec4b,superstar.doctor,available,5.98,154.98,medi
 d3513fd2-32d1-409a-a36c-f2520f1bef53,jimthorpe.doctor,available,14.99,,high,low,10,name.com,,,
 04d3bc67-2106-42b3-9124-9eec1fd683f8,anionic.doctor,available,5.98,154.98,low,low,7,namecheap,,,
 feacd4cf-dc22-46c2-8ed6-5afe2a90fff5,airsick.doctor,available,5.98,154.98,low,low,7,namecheap,,,
-9d8fddea-7d8d-4414-bdba-175cab8465a9,limiting.doctor,available,14.99,151.99,medium,low,8,name.com,,,
+9d8fddea-7d8d-4414-bdba-175cab8465a9,limiting.doctor,available,14.49,116.99,low,low,8,namesilo,,,23/09/2026 19:42
 19c9a72b-0d69-4c41-bcfd-44a4cbd5ffaa,vibrate.doctor,available,14.99,,high,low,7,name.com,,,
 8dbc7f7c-5d48-43cc-9a49-73246aed6d94,humourous.doctor,available,14.99,,high,low,9,name.com,,,
 fe7708bb-5beb-45cc-bd89-5e0b15a4d660,harddrive.doctor,available,14.99,,high,low,10,name.com,,,
@@ -732,7 +728,7 @@ e4f4b19d-386a-43bf-897a-983d9c008c07,incline.doctor,available,14.99,,high,low,7,
 f727830b-c7da-4770-9310-6ee7efe0eff4,fearless.doctor,available,14.49,116.99,medium,low,8,namesilo,,,22/09/2026 12:19
 efa96724-2ec1-4c92-bc18-b9296afaef35,gosing.doctor,available,14.99,,high,low,7,name.com,,,
 82559143-f63f-4562-a17b-99c85d51e87a,nimble.doctor,available,14.49,116.99,medium,low,6,namesilo,,,21/09/2026 23:05
-5d657a16-7b0d-40fb-b909-9f43a1044b44,compatible.doctor,available,14.99,151.99,high,low,10,name.com,,,
+5d657a16-7b0d-40fb-b909-9f43a1044b44,compatible.doctor,available,14.49,116.99,medium,low,10,namesilo,,,23/09/2026 16:57
 b3598ca2-d3bb-4189-80a4-01473c808b0b,legislative.doctor,available,14.99,,high,low,11,name.com,,,
 fd6df3ff-1ce2-4ded-bcbe-889e206cd014,diploma.doctor,available,14.99,,high,low,7,name.com,,,
 0c90e1d1-b1af-402e-bab7-e6d354cce67c,fortieth.doctor,available,5.98,154.98,low,low,8,namecheap,,,
@@ -771,7 +767,7 @@ f74cfb60-7cc4-42cf-a7ef-7644003aece7,terrified.doctor,available,14.99,,medium,lo
 bc1ebb09-05f0-4315-b6a8-b269ad79606e,problem.doctor,available,14.99,,high,low,7,name.com,,,
 aea570e2-29a5-4524-84e3-eb6494ed5f53,poundcake.doctor,available,14.99,,medium,low,10,name.com,,,
 e5033446-8dea-455e-857a-93a3345628c1,ascendent.doctor,available,5.98,154.98,low,low,9,namecheap,,,
-6d3a75e3-d72f-4151-93fc-6e4c461ffad4,conclusion.doctor,available,14.99,,high,low,10,name.com,,,
+6d3a75e3-d72f-4151-93fc-6e4c461ffad4,conclusion.doctor,available,14.49,116.99,medium,low,10,namesilo,,,23/09/2026 14:51
 6e07aa60-d5d0-40c2-9527-ae1d20e2d6a2,brighten.doctor,available,14.99,,high,low,8,name.com,,,
 8bdec665-185a-4a6f-8e6f-82596a502b16,press.doctor,available,14.99,,medium,low,5,name.com,,,
 c39e7137-f7c0-4a4a-9206-74adb6d169fc,mass.doctor,available,5.98,154.98,medium,low,4,namecheap,,,21/09/2026 22:50
@@ -791,7 +787,7 @@ d0a8c355-8cab-4e78-9d0d-08c1ae7368a7,consent.doctor,available,5.98,154.98,medium
 6e7f97bc-cdc6-43b4-8857-11a7c8c4ee1b,ampullar.doctor,available,5.98,154.98,low,low,8,namecheap,,,
 1bbe16aa-5e5c-4e2d-aef7-5c2febf5260a,andorran.doctor,available,5.98,154.98,low,low,8,namecheap,,,
 b8e10401-3540-4104-b057-7d83653fe327,north.doctor,resell,,,high,low,5,"GoDaddy.com, LLC",26/03/2019 18:53,26/03/2027 18:53,
-5ade7b7f-ad29-45fd-9b7e-bbdfe81f907c,forced.doctor,available,14.99,151.99,medium,low,6,name.com,,,
+5ade7b7f-ad29-45fd-9b7e-bbdfe81f907c,forced.doctor,available,5.98,154.98,low,low,6,namecheap,,,23/09/2026 21:10
 5040cd08-d35e-4b6b-96c3-7875fdf23837,diskspace.doctor,available,14.99,,high,low,10,name.com,,,
 dde0feba-5363-4ee0-87e0-5b3f59b5a996,nutritive.doctor,available,5.98,154.98,medium,low,9,namecheap,,,08/09/2026 09:04
 fb967b9c-be79-47b1-8e9a-fb1cc84045a7,pivot.doctor,available,14.99,,high,low,5,name.com,,,
@@ -812,7 +808,7 @@ d1fece77-7362-4b5f-9156-32e38a8def85,turmeric.doctor,available,14.49,116.99,medi
 01d4df6c-a441-42dc-85c9-0514f2458712,cleared.doctor,available,14.49,116.99,medium,low,7,namesilo,,,21/09/2026 14:48
 aa39253e-92cf-48ef-a4f2-55476591cf2b,commenting.doctor,available,14.99,,medium,low,10,name.com,,,
 e146a46c-b77e-41e7-9dff-8ffe09dc8c0b,medication.doctor,available,14.99,,high,low,10,name.com,,,
-999b28f9-f035-4087-815a-d833ac3c8ffe,snap.doctor,available,14.99,151.99,high,medium,4,name.com,,,
+999b28f9-f035-4087-815a-d833ac3c8ffe,snap.doctor,available,5.98,154.98,medium,low,4,namecheap,,,24/09/2026 01:20
 e5a95bd6-0c54-43f0-ad85-0355cb8fb1d2,bloodclot.doctor,available,14.99,,medium,low,10,name.com,,,
 90e7b2b0-f494-4723-bab2-1d225a77ce96,bluish.doctor,available,5.98,154.98,low,low,6,namecheap,,,22/09/2026 22:47
 ffcada66-2fea-417f-b8a4-22393eef366e,country.doctor,resell,,,high,low,7,"Spaceship, Inc.",30/09/2025 13:30,30/09/2026 13:30,
@@ -840,11 +836,10 @@ e022c9ab-a0b0-485b-b85e-67596c9a0e34,multiplayer.doctor,available,14.99,,medium,
 80ae90bf-9be8-4143-bb37-d21b52090620,very.doctor,available,14.99,,high,low,4,name.com,,,
 b7d40120-7e8d-44b7-ac37-3e5c42041279,forward.doctor,available,5.98,154.98,low,low,7,namecheap,,,21/09/2026 20:55
 f23b751f-810d-438a-955d-198ba5b312f3,deepdish.doctor,available,14.99,,high,low,9,name.com,,,
-1c8f00d7-eed6-4af8-a65b-1acadd2440d9,resume.doctor,resell,,,high,low,6,"GoDaddy.com, LLC",02/11/2016 22:24,02/11/2026 22:24,
 27f72926-18fa-4461-99bb-df8aeb52e087,privileged.doctor,available,14.99,,medium,low,10,name.com,,,
 364265a8-f5ff-4526-899e-4cdc35f43ce9,vii.doctor,available,5.98,154.98,low,low,3,namecheap,,,
 10d78155-0772-43e5-8f99-df50f4f05f24,fired.doctor,available,14.99,151.99,medium,low,5,name.com,,,
-dd902c8c-2f79-4893-8528-c56de2e942f4,crafty.doctor,available,14.99,151.99,medium,low,6,name.com,,,
+dd902c8c-2f79-4893-8528-c56de2e942f4,crafty.doctor,available,14.49,116.99,low,low,6,namesilo,,,24/09/2026 01:24
 62deabac-270e-4090-ba34-5ed649153c86,alarmed.doctor,available,5.98,154.98,low,low,7,namecheap,,,
 14d5347c-b9f1-4d44-8972-7828f38efbdf,anybudy.doctor,available,14.99,,medium,low,7,name.com,,,
 a155537e-7072-403d-8179-ace00d4a1c0b,appetising.doctor,available,5.98,154.98,low,low,10,namecheap,,,06/08/2026 06:50
@@ -908,7 +903,7 @@ d265340e-3e98-4ae2-86c0-84efc5c04b6c,outofaction.doctor,available,14.99,,low,low
 c3d5f972-3ed8-40b2-98ab-77494c6b7767,placatory.doctor,available,5.98,154.98,low,low,9,namecheap,,,06/08/2026 06:12
 d693058a-1758-4ac4-8239-3a4a02e5acea,attachment.doctor,available,14.99,,high,low,10,name.com,,,
 e4910c68-aced-4d17-8372-8afa3da9d8f2,afebrile.doctor,available,5.98,154.98,low,low,8,namecheap,,,
-503f271a-1a4e-4bb6-9039-0da1fb0faaec,cunning.doctor,available,14.99,151.99,medium,low,7,name.com,,,
+503f271a-1a4e-4bb6-9039-0da1fb0faaec,cunning.doctor,available,14.49,116.99,low,low,7,namesilo,,,24/09/2026 01:26
 8da7000e-3df8-4374-b304-ddd9cec8b0ed,ackack.doctor,available,5.98,154.98,low,low,7,namecheap,,,
 2e48a3ec-0017-41ba-8455-cc4fc23b85b5,archosaur.doctor,available,5.98,154.98,low,low,9,namecheap,,,06/08/2026 15:57
 fafe21cc-9c4a-4c84-a77c-d52f283bc990,fiftynine.doctor,available,5.98,154.98,low,low,10,namecheap,,,
@@ -937,7 +932,7 @@ c3dcfb6d-e430-447e-aac7-911aa5f4e6bf,butif.doctor,available,14.99,,medium,low,6,
 f1d207bc-2649-4d43-ac4a-f01219632c15,aleatory.doctor,available,5.98,154.98,low,low,8,namecheap,,,
 261aa43e-39df-4cfa-9e97-454fcd923317,wakeup.doctor,available,5.98,154.98,medium,low,7,namecheap,,,07/08/2026 23:56
 1451b8a9-355e-4332-926e-0b961e87a5ba,octet.doctor,available,5.98,154.98,low,low,5,namecheap,,,
-8d2bf981-6d56-4b34-babc-f06ebb0303c7,integral.doctor,available,14.99,,medium,low,8,name.com,,,
+8d2bf981-6d56-4b34-babc-f06ebb0303c7,integral.doctor,available,14.49,116.99,medium,low,8,namesilo,,,23/09/2026 10:33
 3ec7d6e2-fe99-420e-9167-96d941e15016,ascendable.doctor,available,5.98,154.98,low,low,10,namecheap,,,07/08/2026 00:35
 c318e0d8-4b50-40ca-942b-33ef89b1d751,tentbed.doctor,available,14.99,,high,low,8,name.com,,,
 48cee182-7c38-432a-a38a-da0513997afb,withering.doctor,available,5.98,154.98,low,low,9,namecheap,,,
@@ -954,7 +949,7 @@ bb760323-f4b7-4eb5-9ca2-8a3ae2eee89c,enviable.doctor,available,14.99,,high,low,8
 c1658a34-6d4e-4bfb-afe4-463e5a18040a,atrip.doctor,available,5.98,154.98,low,low,5,namecheap,,,07/08/2026 14:33
 3407f2c7-1c04-46da-845f-a5aa0506f569,saint.doctor,available,14.99,,high,low,5,name.com,,,
 7d1135a3-651d-4f63-9bb8-a1ed59f30ac5,birthday.doctor,available,14.99,,high,low,8,name.com,,,
-a008e9c2-5570-4501-9f31-67cc1573bb8d,commercial.doctor,available,14.49,116.99,medium,low,10,namesilo,,,19/09/2026 10:28
+a008e9c2-5570-4501-9f31-67cc1573bb8d,commercial.doctor,available,14.49,116.99,medium,low,10,namesilo,,,23/09/2026 07:53
 7d4236a2-596c-4ae4-a225-4c98a30aada6,fourth.doctor,available,5.98,154.98,low,low,6,namecheap,,,
 174a3aa5-b228-4282-a6db-0a2c58a4ecdf,disappointed.doctor,available,14.99,,medium,low,12,name.com,,,
 669f1002-7a1c-4a2a-9613-edaa5476ad04,ebay.doctor,available,,,high,low,4,,,,
@@ -963,7 +958,7 @@ a008e9c2-5570-4501-9f31-67cc1573bb8d,commercial.doctor,available,14.49,116.99,me
 cf4d9dc4-4da5-4a93-83e7-25fb30fec3db,barbeque.doctor,available,14.99,,high,low,8,name.com,,,
 72d73d96-7f3c-4fdf-971c-7e604f59c208,aeonian.doctor,available,5.98,154.98,low,low,7,namecheap,,,
 08947808-454a-4153-b3eb-a63a29d22f46,invitation.doctor,available,14.99,,high,low,10,name.com,,,
-f8562b45-c147-4e7a-baea-3c62f30e769a,broadband.doctor,available,14.99,,high,low,9,name.com,,,
+f8562b45-c147-4e7a-baea-3c62f30e769a,broadband.doctor,available,14.49,116.99,medium,low,9,namesilo,,,23/09/2026 09:40
 d6e8fef5-3d27-4a67-a977-558290032296,bendystraw.doctor,available,14.99,,high,low,11,name.com,,,
 fd09c3cc-cdda-4483-83bc-b0a33153889c,dotmatrixprinter.doctor,available,14.99,,medium,low,18,name.com,,,
 c9b09d19-8f73-4ed6-a216-2e721aae62f6,retracted.doctor,available,14.99,,medium,low,9,name.com,,,
@@ -973,7 +968,6 @@ fea0a3ab-585f-4a6e-9591-24221b1dddf3,bristled.doctor,available,5.98,154.98,low,l
 44b11370-f34d-4218-a3b0-12e4c08a905b,into.doctor,available,14.99,,medium,low,4,name.com,,,
 ebc836e7-e985-44b8-bccb-85efda888c3a,frenchmustard.doctor,available,14.99,,high,low,14,name.com,,,
 7e3f55e1-0a90-43ca-95ff-14e3814bd436,manual.doctor,available,14.99,,medium,low,6,name.com,,,
-7ebbdcc3-27e4-4ad8-b3fb-f7261b2a17d1,soft.doctor,resell,,,high,low,4,"Go Australia Domains, LLC",02/11/2016 16:00,02/11/2026 16:00,
 497681a8-001e-455f-b15a-6996cf1632b1,readfor.doctor,available,14.99,,low,low,8,name.com,,,
 ace42115-45b0-42ad-90af-323b452b1a44,exercisebike.doctor,available,14.99,,high,low,13,name.com,,,
 4ec48b39-3c8d-4e3c-91ce-318e309f2185,bouncing.doctor,available,14.49,116.99,medium,low,8,namesilo,,,23/09/2026 01:19
@@ -999,3 +993,9 @@ b729d8f8-8441-4b17-b4ed-d04a8a260339,styptic.doctor,available,5.98,154.98,low,lo
 eecd3641-6570-4685-bf02-3cf5fae7b202,parent.doctor,available,14.99,,high,low,6,name.com,,,
 dc402710-bacb-400c-8a78-4e7193976969,laudable.doctor,available,5.98,154.98,low,low,8,namecheap,,,06/08/2026 07:01
 92e965e8-1580-465e-be10-e91ae5066d96,bonus.doctor,available,14.99,,high,low,5,name.com,,,
+13a0760b-d7da-418b-8edd-23855e61f093,story.doctor,resell,,,high,medium,5,Porkbun LLC,31/08/2025 00:02,31/08/2027 00:02,23/09/2026 14:26
+8e7af8d8-0bde-4de2-bc99-86466803b688,meaning.doctor,available,14.99,,high,low,7,name.com,,,
+0615de37-ba65-4e52-b97a-81e35951272f,developed.doctor,available,14.99,151.99,high,low,9,name.com,,,
+89e542de-0ebb-4eb6-9fae-144843d5f958,grueling.doctor,available,5.98,154.98,low,low,8,namecheap,,,06/08/2026 16:45
+ceb88c53-879d-41ff-9e03-437394947e71,grocery.doctor,available,5.98,154.98,medium,low,7,namecheap,,,08/09/2026 13:48
+05e0b864-52ae-4bd1-a452-371d2e09ca73,gotoilet.doctor,available,14.99,,medium,low,9,name.com,,,
