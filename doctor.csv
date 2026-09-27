@@ -1,5 +1,4 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-5957696f-6e2b-4879-919d-f49e365974c3,lady.doctor,resell,,,high,low,4,"Spaceship, Inc.",16/04/2025 09:54,16/04/2027 09:54,
 8e2160a4-aaf0-4c2a-8100-fabcc8dec61e,greased.doctor,available,5.98,154.98,high,low,7,namecheap,,,20/08/2026 19:33
 1d10ac14-ca36-47f8-a6c5-d0b992367211,hyperfine.doctor,available,5.98,154.98,medium,low,9,namecheap,,,21/08/2026 16:48
 bf012e16-1ff2-4fc9-9416-d139aed5fc7d,brittle.doctor,available,5.98,154.98,medium,low,7,namecheap,,,11/08/2026 03:47
@@ -34,7 +33,6 @@ f73d92c7-0e62-4448-8a32-a85a3038798d,sleepless.doctor,available,5.98,154.98,high
 2f87c970-eac8-4523-bebc-07d3868c0035,princely.doctor,available,5.98,154.98,high,low,8,namecheap,,,14/08/2026 01:00
 6cb46907-3c49-441a-b15a-357f4d916ad0,mantrap.doctor,available,5.98,154.98,medium,low,7,namecheap,,,22/08/2026 16:50
 9c3d651b-293c-47e6-9853-c815f4a711ef,relies.doctor,available,14.49,116.99,medium,low,6,namesilo,,,20/09/2026 06:27
-74ab1871-f38e-47e8-a821-c82ac88c9da4,electrical.doctor,resell,,,high,low,10,"Blue Razor Domains, LLC",02/11/2016 16:00,02/11/2026 16:00,16/08/2026 02:39
 4d34c9f3-fd9b-495d-ae75-bba869ad86a8,takes.doctor,available,14.99,,medium,low,5,name.com,,,
 d3d10817-010d-429c-971e-77f93c1e7d4b,retain.doctor,available,14.99,,high,low,6,name.com,,,
 5290ed19-3f66-4339-a434-4e6525770a64,buttercup.doctor,available,14.49,116.99,high,low,9,namesilo,,,24/09/2026 11:18
@@ -50,6 +48,7 @@ ab048715-ff4e-4b2e-a2f1-a4590aaf4f98,incredibly.doctor,available,5.98,154.98,hig
 bf8b11f9-587b-4576-9618-8ab3c5a2b8dc,mitch.doctor,available,14.49,116.99,high,low,5,namesilo,,,26/09/2026 03:07
 de4452be-7431-4118-becf-eeb48fb82065,balaclava.doctor,available,5.98,154.98,medium,low,9,namecheap,,,21/09/2026 20:27
 db1c4d3f-bbb1-4101-9c31-13b9e5347642,wiz.doctor,available,5.98,154.98,high,low,3,namecheap,,,21/09/2026 18:16
+3568a6c1-9ae5-442a-bbc2-0201119995e6,got.doctor,available,5.98,154.98,high,low,3,namecheap,,,27/09/2026 07:08
 a814d0dc-8dfa-4007-9891-0d7615d3e624,agenesis.doctor,available,5.98,154.98,medium,low,8,namecheap,,,17/09/2026 17:08
 afcac016-c06f-41c8-90e7-cb89ff9a1f63,tonsorial.doctor,available,5.98,154.98,medium,low,9,namecheap,,,11/09/2026 17:12
 6501bea6-724e-4a06-92af-cdee4b824b83,movable.doctor,available,5.98,154.98,high,low,7,namecheap,,,25/08/2026 08:56
@@ -106,6 +105,7 @@ d99136c0-1c70-4a9f-afa2-045e9e57c553,aneurism.doctor,available,14.49,116.99,high
 0cbb51fe-772b-45d5-8d96-14079d8de62e,flack.doctor,available,5.98,154.98,medium,low,5,namecheap,,,
 84c41382-47d8-4cc3-bcf8-c12da248bbae,tenderness.doctor,available,14.49,116.99,high,low,10,namesilo,,,17/09/2026 14:18
 fabac1dc-2d4e-40e3-8886-6de2dd966874,almsgiving.doctor,available,14.49,116.99,medium,low,10,namesilo,,,18/09/2026 12:43
+8a0bcbba-8806-4216-8633-eb54e2251238,suffered.doctor,available,14.49,116.99,medium,low,8,namesilo,,,27/09/2026 02:46
 6c61ea7b-3cb4-46bf-a204-801acfbb74a5,theft.doctor,available,5.98,154.98,high,low,5,namecheap,,,08/09/2026 07:55
 0ffa1154-096e-4bb1-8674-44ab1ecaf634,astounding.doctor,available,14.49,116.99,high,low,10,namesilo,,,22/09/2026 10:29
 cf171f76-8037-4f11-9bd1-ff2ff331b483,frank.doctor,available,5.98,154.98,high,medium,5,namecheap,,,08/09/2026 05:07
@@ -117,7 +117,7 @@ aae2c7bc-effa-4b13-b0f2-dc2305a9314a,adapted.doctor,available,14.49,116.99,high,
 cc2c9969-9a93-42b5-9a85-27dfd615105a,frustrate.doctor,available,14.49,116.99,high,low,9,namesilo,,,24/09/2026 12:25
 6bd70f28-0e82-4899-a6d3-7705d84dcfad,archival.doctor,available,5.98,154.98,high,low,8,namecheap,,,06/08/2026 15:53
 7cc8673d-ea4f-4424-ba46-0eaf42369fbd,hindsight.doctor,available,14.99,,high,low,9,name.com,,,
-45a193ca-05d6-4dfb-8ab0-f6d04e465017,played.doctor,available,14.99,,high,low,6,name.com,,,
+45a193ca-05d6-4dfb-8ab0-f6d04e465017,played.doctor,available,14.49,116.99,high,low,6,namesilo,,,27/09/2026 04:03
 c4aeefa3-050e-4553-81db-62fdb206f529,taunt.doctor,available,5.98,154.98,medium,low,5,namecheap,,,11/09/2026 09:13
 a4d8cfa2-ceee-4623-a4ae-f22aa415c5d4,approving.doctor,available,5.98,154.98,medium,low,9,namecheap,,,06/08/2026 08:49
 ab2d7c59-b065-41f0-b4bd-cdb2a8f8a269,executives.doctor,available,14.49,116.99,high,low,10,namesilo,,,21/09/2026 01:35
@@ -169,6 +169,7 @@ ecb285b0-0dba-401d-b28f-051ee50e7b15,missional.doctor,available,5.98,154.98,medi
 9ff51010-3a11-4b68-bde6-51c86612f752,authorized.doctor,available,14.49,116.99,high,low,10,namesilo,,,22/09/2026 13:48
 43f2586b-bdbc-4407-9870-d163e35020bd,armful.doctor,available,14.49,116.99,medium,low,6,namesilo,,,20/09/2026 06:50
 569cdf19-e895-4adc-8b74-cbc4f26e88ed,blaze.doctor,available,5.98,154.98,high,low,5,namecheap,,,10/08/2026 13:51
+03f4153a-844c-49d8-b544-038ad0b451e6,mendoza.doctor,available,14.49,116.99,high,low,7,namesilo,,,27/09/2026 07:53
 d49cd496-ec96-4e95-a471-a75354582a0d,sunup.doctor,available,5.98,154.98,high,low,5,namecheap,,,11/09/2026 02:09
 23a0fbad-9c27-4bdd-a72a-30cb825878d8,parity.doctor,available,14.49,116.99,high,low,6,namesilo,,,24/09/2026 13:55
 05d46e43-17aa-4bec-8902-ca3ce5c5f88f,adenine.doctor,available,14.49,116.99,medium,low,7,namesilo,,,17/09/2026 07:24
@@ -194,7 +195,6 @@ c7963561-43c1-485f-ba03-62a9ca08672e,henri.doctor,available,14.49,116.99,high,lo
 2710ae72-1250-4290-93ac-878fb2d516c6,worth.doctor,available,14.99,,high,low,5,name.com,,,
 162b6ee4-fed6-48c4-9374-b94e1613fa26,berit.doctor,available,14.49,116.99,high,low,5,namesilo,,,23/09/2026 09:27
 57d9680c-fab5-45b1-8c1d-77dde7241523,irons.doctor,available,14.99,,high,low,5,name.com,,,
-2b628b94-757a-4659-85e5-4625382061be,boob.doctor,resell,,,high,low,4,"GoDaddy.com, LLC",05/11/2016 23:20,05/11/2026 23:20,
 8830d595-95aa-4974-ac06-4c597e48ce9f,bloodline.doctor,available,5.98,154.98,high,low,9,namecheap,,,08/09/2026 13:11
 3104208f-1742-49cd-ba73-2e612362c13c,casual.doctor,available,14.49,116.99,high,low,6,namesilo,,,23/09/2026 13:14
 8791faa9-a46c-49fb-8427-cb2f097e4815,bavarian.doctor,available,5.98,154.98,medium,low,8,namecheap,,,09/08/2026 02:00
@@ -243,6 +243,8 @@ e18ca2e6-d39d-4998-bdfe-7c7ebd71c7b2,crappy.doctor,available,5.98,154.98,medium,
 78461b36-f488-4976-98b0-87782e334be5,outgoing.doctor,available,5.98,154.98,high,low,8,namecheap,,,18/08/2026 12:37
 2919818f-f18d-46ad-af07-71468c0efd40,meg.doctor,available,5.98,154.98,high,low,3,namecheap,,,24/08/2026 23:20
 58459de1-81ea-421d-9c2f-d2ead00b5c33,fourteenth.doctor,available,5.98,154.98,high,low,10,namecheap,,,
+0ad755e0-efdf-4d94-ac17-1ca9a3efd2e3,cleaned.doctor,available,14.49,116.99,high,low,7,namesilo,,,27/09/2026 02:45
+2f07cd73-9f2a-4567-92cc-558a1e8b6703,noah.doctor,available,14.49,116.99,high,medium,4,namesilo,,,27/09/2026 04:52
 e9ab87ec-022a-42e3-820e-d61eb004a7f0,arresting.doctor,available,5.98,154.98,high,low,9,namecheap,,,06/08/2026 21:47
 7fb74c8e-0443-4416-bc6b-892c8b330ec9,inmost.doctor,available,5.98,154.98,medium,low,6,namecheap,,,22/08/2026 05:51
 1daca840-5ad1-4152-a94b-c925fae42f7e,subjects.doctor,available,14.99,,medium,low,8,name.com,,,
@@ -267,9 +269,9 @@ d62cd3cb-f644-4d92-b22e-3befc5a7493c,guts.doctor,available,14.99,,high,low,4,nam
 4ec48b39-3c8d-4e3c-91ce-318e309f2185,bouncing.doctor,available,14.49,116.99,high,low,8,namesilo,,,23/09/2026 01:19
 4ba96e53-818c-4d5b-96a3-e96f0a6d7e40,tellurian.doctor,available,5.98,154.98,medium,low,9,namecheap,,,11/09/2026 10:37
 73f179b2-a8c7-48bb-95dc-8304293b9207,additional.doctor,available,14.49,116.99,high,low,10,namesilo,,,21/09/2026 17:14
-2a0c4227-2c72-4964-9a9c-05e5fcbe292e,targets.doctor,resell,,,medium,low,7,"Go Australia Domains, LLC",02/11/2016 16:00,02/11/2026 16:00,18/09/2026 15:18
 eb744866-991f-4ff1-90c1-dda311a2ffe2,supernal.doctor,available,5.98,154.98,medium,low,8,namecheap,,,11/09/2026 02:23
 f9ac9368-7131-49f5-a970-253dc9943f3c,unit.doctor,available,5.98,154.98,high,low,4,namecheap,,,08/09/2026 06:04
+4b727352-f9ce-411f-a063-85f18e82f83d,fears.doctor,available,14.49,116.99,medium,low,5,namesilo,,,27/09/2026 08:58
 b0cf1c05-89d4-4939-8414-8e584d160668,frisky.doctor,available,5.98,154.98,high,low,6,namecheap,,,18/08/2026 16:02
 0cd5ac32-8d36-49bf-8efe-15d65c54018e,triennial.doctor,available,5.98,154.98,high,low,9,namecheap,,,11/09/2026 19:31
 e399216f-6654-47f4-af74-0353bc17c411,zippo.doctor,available,5.98,154.98,high,low,5,namecheap,,,03/09/2026 22:45
@@ -296,7 +298,7 @@ b9efd110-d8e8-4ceb-90de-3d71c47ffbac,such.doctor,available,14.99,,high,low,4,nam
 3c7dacd9-f9bf-49b8-a576-170c6e34c043,overripe.doctor,available,5.98,154.98,medium,low,8,namecheap,,,04/09/2026 21:44
 ab12755e-9210-4b31-af51-0c205fc1d47d,passel.doctor,available,5.98,154.98,medium,low,6,namecheap,,,25/08/2026 00:35
 ecf1ee14-6286-458d-bda5-7f13b699501e,dissolved.doctor,available,5.98,154.98,medium,low,9,namecheap,,,14/08/2026 12:56
-2d448a0e-3838-4dd2-9049-c6ab9db195ba,one.doctor,resell,,,high,medium,3,Dynadot Inc,04/04/2023 15:15,04/04/2027 15:15,21/09/2026 10:37
+2d448a0e-3838-4dd2-9049-c6ab9db195ba,one.doctor,resell,,,high,medium,3,Dynadot Inc,04/04/2023 15:15,04/04/2027 15:15,26/09/2026 07:53
 7adb7694-5b0c-4dc3-9928-ad4d7266a50c,vapid.doctor,available,5.98,154.98,medium,low,5,namecheap,,,10/08/2026 13:04
 3486bdad-5836-4160-9e5d-8441339a7727,frontward.doctor,available,5.98,154.98,medium,low,9,namecheap,,,18/08/2026 12:50
 c5c5e796-742e-495c-87dc-90ddc07fb6f9,stria.doctor,available,14.49,116.99,high,low,5,namesilo,,,22/09/2026 01:18
@@ -342,14 +344,14 @@ cea5e6c0-a191-48a8-a949-693637edd84d,obscure.doctor,available,5.98,154.98,high,l
 b58c855e-7f42-46ca-bdc0-ff84853aa054,apiarist.doctor,available,14.49,116.99,medium,low,8,namesilo,,,19/09/2026 17:19
 50e87ae6-4d1e-4805-91a9-65ab08348caa,aeolic.doctor,available,14.49,116.99,medium,low,6,namesilo,,,17/09/2026 12:35
 179b9f6a-4537-41ea-a354-20c178bafdef,norwegian.doctor,available,14.49,116.99,high,low,9,namesilo,,,25/09/2026 23:14
-3f72b5d3-19bf-4c80-b317-8a72fc529b1c,dot.doctor,resell,,,high,medium,3,"Global Domains International, Inc. DBA DomainCostClub.com",09/02/2026 15:15,09/02/2027 15:15,19/09/2026 16:13
+3f72b5d3-19bf-4c80-b317-8a72fc529b1c,dot.doctor,resell,,,high,medium,3,"Global Domains International, Inc. DBA DomainCostClub.com",09/02/2026 15:15,09/02/2027 15:15,26/09/2026 05:39
 56803f95-1c44-4987-b721-d4dbed61baea,bookable.doctor,available,5.98,154.98,high,low,8,namecheap,,,10/08/2026 19:04
 4444e437-3b9b-4015-996d-feac54516fd7,wares.doctor,available,5.98,154.98,medium,low,5,namecheap,,,23/09/2026 02:54
 13b32cd5-d40c-4f10-8a74-d82fdccb61d5,assyrian.doctor,available,14.49,116.99,high,low,8,namesilo,,,20/09/2026 16:49
 5d4274c7-58bd-4c31-8f3d-9164135a4dea,newcomer.doctor,available,5.98,154.98,high,low,8,namecheap,,,18/08/2026 07:31
 d97d77e2-4470-4bc6-9b7a-eeb88414f273,propulsive.doctor,available,5.98,154.98,high,low,10,namecheap,,,09/09/2026 03:32
 74ae496d-937f-40fa-b18b-f3db4baa69cf,stiff.doctor,available,5.98,154.98,medium,low,5,namecheap,,,09/08/2026 16:54
-6f48267c-fd32-4b35-9628-c8f79ab790d8,refuse.doctor,available,14.49,116.99,high,low,6,namesilo,,,25/09/2026 22:50
+6f48267c-fd32-4b35-9628-c8f79ab790d8,refuse.doctor,available,14.49,116.99,medium,low,6,namesilo,,,27/09/2026 02:42
 8f06e190-4b86-47e9-90c5-d6d88208eaf3,hilarious.doctor,available,5.98,154.98,high,low,9,namecheap,,,21/08/2026 09:21
 e8258fd2-d41e-4369-a2bf-f7b70680be15,honorific.doctor,available,5.98,154.98,high,low,9,namecheap,,,21/08/2026 13:32
 aa925213-50e2-4ab8-9bac-75e80de34c1c,austrian.doctor,available,14.49,116.99,high,low,8,namesilo,,,22/09/2026 13:38
@@ -372,6 +374,7 @@ c16eace2-e394-401e-b37e-646e707a656a,backseat.doctor,available,14.49,116.99,high
 732bae00-f93c-4c79-8460-d832c368027d,fabricated.doctor,available,5.98,154.98,medium,low,10,namecheap,,,17/08/2026 20:15
 33a10226-5d66-43e1-87ac-fe244faa049a,reviving.doctor,available,5.98,154.98,high,low,8,namecheap,,,09/09/2026 14:08
 c35124dd-1789-4605-a150-e3ad5b116c02,debacle.doctor,available,5.98,154.98,medium,low,7,namecheap,,,13/09/2026 07:56
+82c2d6f1-27ae-498e-9026-1db5b3fe0893,walden.doctor,available,14.49,116.99,high,low,6,namesilo,,,27/09/2026 08:12
 bdc35d03-48a5-47da-9886-4bbd68ca0fe4,bmdo.doctor,available,14.49,116.99,medium,low,4,namesilo,,,21/09/2026 22:57
 4676641d-c26a-45a4-a944-848b54a00e99,outsized.doctor,available,5.98,154.98,medium,low,8,namecheap,,,04/09/2026 19:40
 4e0bca23-b275-4b12-8450-aeb83220d0f6,scoffing.doctor,available,5.98,154.98,medium,low,8,namecheap,,,22/08/2026 12:43
@@ -381,7 +384,6 @@ f257eaac-33f8-4db9-a33d-dd672492ad64,picnic.doctor,available,14.49,116.99,high,l
 731e9918-fb3a-4168-a20b-e03f3b5e915e,disheveled.doctor,available,5.98,154.98,medium,low,10,namecheap,,,14/08/2026 10:56
 ac936894-345a-4708-85b0-c9643d2fb872,perfective.doctor,available,5.98,154.98,high,low,10,namecheap,,,08/09/2026 16:27
 7b3af1cd-a8c9-40a2-9a8d-896844229b41,solid.doctor,available,14.99,,high,low,5,name.com,,,
-942cab30-7537-4335-8687-fbfd899d6f98,johnson.doctor,resell,,,high,low,7,,,,19/09/2026 04:46
 6d82fbe1-b348-4d82-976f-3d81f0441d2f,antiphony.doctor,available,14.49,116.99,medium,low,9,namesilo,,,19/09/2026 14:57
 7818f40c-24e2-4218-aeda-444cafda2b60,lover.doctor,available,14.49,116.99,high,low,5,namesilo,,,23/09/2026 10:15
 5542827f-df72-4f81-920e-3275349beeaf,opposing.doctor,available,5.98,154.98,high,low,8,namecheap,,,04/09/2026 16:38
@@ -416,10 +418,8 @@ aaed6f6a-8510-49d8-8906-3b67e64edfbe,parvenu.doctor,available,5.98,154.98,medium
 e7561844-9855-483c-a4cf-79d9df73895b,grate.doctor,available,5.98,154.98,high,low,5,namecheap,,,20/08/2026 18:33
 165be1bc-dd03-48b7-b84c-f06205795c53,mobius.doctor,available,5.98,154.98,high,low,6,namecheap,,,21/09/2026 03:47
 e25adad9-2be4-4569-ac46-fc823f080d8e,acts.doctor,available,14.99,,high,low,4,name.com,,,
-377f794b-d8c4-46ec-90b7-79df97e0b4d9,airplane.doctor,available,14.99,,high,low,8,name.com,,,
-0b3fdbe0-76da-48a8-a445-829506dbc702,charitable.doctor,resell,,,high,low,10,"Go Montenegro Domains, LLC",02/11/2016 16:00,02/11/2026 16:00,12/08/2026 02:34
-8e1f79be-c846-431e-9832-ecb2da255f2a,mary.doctor,resell,,,high,low,4,,,,24/09/2026 06:05
-edb36b59-57d5-425d-b10c-90c6a298d4b3,golden.doctor,resell,,,high,low,6,"GoDaddy.com, LLC",11/04/2019 18:26,11/04/2027 18:26,18/08/2026 23:35
+377f794b-d8c4-46ec-90b7-79df97e0b4d9,airplane.doctor,available,14.49,116.99,high,low,8,namesilo,,,27/09/2026 04:01
+edb36b59-57d5-425d-b10c-90c6a298d4b3,golden.doctor,resell,,,high,low,6,"GoDaddy.com, LLC",11/04/2019 18:26,11/04/2027 18:26,26/09/2026 06:25
 ed450317-7e07-488d-b18c-4f11c582354a,qatari.doctor,available,5.98,154.98,high,low,6,namecheap,,,22/08/2026 15:09
 f8ab1d1a-53a3-4b1f-9403-b07554f18bb3,bifurcate.doctor,available,5.98,154.98,high,low,9,namecheap,,,09/08/2026 20:08
 c50f528e-03ff-48fe-9fe7-c45520545be9,learnt.doctor,available,14.99,,medium,low,6,name.com,,,
@@ -470,7 +470,6 @@ cb22b68a-d62d-454d-b04d-a89f7511bdf3,perennial.doctor,available,5.98,154.98,high
 51c8d8b7-d289-442f-9669-b663ec638dac,deposits.doctor,available,14.99,,medium,low,8,name.com,,,
 f68f6eff-5410-494e-9937-f3e8ca771790,radar.doctor,available,14.99,,high,low,5,name.com,,,
 e5b2ab18-95da-444f-adca-8757d6216d6b,apraxia.doctor,available,14.49,116.99,medium,low,7,namesilo,,,19/09/2026 22:29
-069d41b2-a9ae-48e0-ac77-f98a9497cafb,king.doctor,resell,,,high,medium,4,"Go Australia Domains, LLC",02/11/2016 16:00,02/11/2026 16:00,
 a352595f-4ae6-4a48-bf12-697a946e3a1a,transports.doctor,available,14.49,116.99,medium,low,10,namesilo,,,20/09/2026 13:26
 7400c97d-9a4b-4d92-aac7-c237fa675f11,evidently.doctor,available,5.98,154.98,high,low,9,namecheap,,,08/09/2026 20:21
 2669f9d9-4acf-4655-ad92-eecd0c9a7f9e,convention.doctor,available,5.98,154.98,high,low,10,namecheap,,,03/09/2026 21:13
@@ -492,7 +491,7 @@ fe73f928-57d5-4477-b179-e8d7d4032f58,obnoxious.doctor,available,5.98,154.98,medi
 275bc012-e525-4f42-a9a8-92d83adb27b2,resettled.doctor,available,5.98,154.98,high,low,9,namecheap,,,09/09/2026 13:41
 c8a95edf-e662-47db-8663-292145d5e416,coalescent.doctor,available,5.98,154.98,medium,low,10,namecheap,,,12/08/2026 13:51
 336d0f36-545c-4602-aee6-05724afdeaea,airhead.doctor,available,14.49,116.99,high,low,7,namesilo,,,17/09/2026 23:11
-27f72926-18fa-4461-99bb-df8aeb52e087,privileged.doctor,available,14.99,,high,low,10,name.com,,,
+27f72926-18fa-4461-99bb-df8aeb52e087,privileged.doctor,available,14.49,116.99,high,low,10,namesilo,,,27/09/2026 06:20
 094a6651-1dbe-410c-9e39-c2d5c0fb5cb3,bioscope.doctor,available,5.98,154.98,medium,low,8,namecheap,,,23/09/2026 19:01
 317626ce-b25b-4f96-9a03-ab72c2abc028,mindfully.doctor,available,5.98,154.98,high,low,9,namecheap,,,13/09/2026 17:29
 2118d36d-240a-49e6-b918-1e89c8d2e6bb,numinous.doctor,available,5.98,154.98,medium,low,8,namecheap,,,03/09/2026 23:01
@@ -554,6 +553,7 @@ a064b0e5-2af5-4802-82ab-1b90c54b5d5b,wounding.doctor,available,5.98,154.98,mediu
 0d9c7b90-b867-497b-9e59-af06a82dc94e,ayatollah.doctor,available,14.49,116.99,high,low,9,namesilo,,,21/09/2026 10:36
 73d8824e-4a4a-4792-8bb6-2cea5ef3bcb4,malone.doctor,available,14.49,116.99,high,low,6,namesilo,,,25/09/2026 05:13
 9ff87627-c222-4964-9f40-ffeab8a5cb2d,heinous.doctor,available,5.98,154.98,medium,low,7,namecheap,,,18/08/2026 06:18
+9a6511ed-540f-42a8-a7f1-47246a78f1a3,vaughn.doctor,available,5.98,154.98,high,low,6,namecheap,,,27/09/2026 11:16
 b66ec1e1-c508-4fd5-b8d9-b791df52adc3,miserly.doctor,available,5.98,154.98,medium,low,7,namecheap,,,24/08/2026 23:45
 104febd0-8271-4079-bb4c-b5ad10fed360,champagne.doctor,available,14.49,116.99,high,low,9,namesilo,,,23/09/2026 10:06
 5dc3eb24-6163-4ab1-8140-fcab318e4af5,froze.doctor,available,14.99,,medium,low,5,name.com,,,
@@ -648,6 +648,7 @@ c4ca4106-121c-4c3e-882b-4b931546334c,liked.doctor,available,5.98,154.98,high,low
 4976b68c-c63b-4704-aae8-650e6fa0f3d9,nosocomial.doctor,available,5.98,154.98,high,low,10,namecheap,,,03/09/2026 21:56
 919b14a4-c29f-4a22-b5d9-e05ca6cfce9a,reposeful.doctor,available,5.98,154.98,medium,low,9,namecheap,,,09/09/2026 13:28
 b862e2b6-c58d-40a8-80d8-d8f527bb00de,banshee.doctor,available,14.49,116.99,high,low,7,namesilo,,,22/09/2026 03:09
+668f502e-fd59-45f6-b9e2-4cc2cfcb2fc5,throwing.doctor,available,14.49,116.99,high,low,8,namesilo,,,27/09/2026 08:46
 eff12e56-3b7a-4f4f-86cb-9d194bce4fc7,agrostemma.doctor,available,5.98,154.98,medium,low,10,namecheap,,,17/09/2026 19:51
 f207704c-2c57-4b85-9aa3-dc79b86a75c0,diatonic.doctor,available,5.98,154.98,medium,low,8,namecheap,,,14/08/2026 06:21
 939c68d6-eebe-4691-bc58-08d0fa8bcb3f,metabolous.doctor,available,5.98,154.98,medium,low,10,namecheap,,,24/08/2026 21:28
@@ -673,11 +674,11 @@ f40dd270-1d7c-495a-b6ad-404dcbabd894,bark.doctor,available,14.49,116.99,high,low
 d3df46bd-1df1-4122-9117-47201b649000,affixed.doctor,available,5.98,154.98,medium,low,7,namecheap,,,
 b3dd5c19-1e87-4ba0-a9ae-c8e90a8a65d1,flip.doctor,available,5.98,154.98,high,medium,4,namecheap,,,24/09/2026 20:06
 34d64653-88ef-4e17-8c1b-f058b8aaaa53,avid.doctor,available,5.98,154.98,high,low,4,namecheap,,,07/08/2026 23:21
-395c7f52-792e-4098-afbc-e60c66fc1c97,water.doctor,resell,,,high,medium,5,"Sav.com, LLC - 3",23/07/2026 15:15,23/07/2027 15:15,08/09/2026 13:05
+395c7f52-792e-4098-afbc-e60c66fc1c97,water.doctor,resell,,,high,medium,5,"Sav.com, LLC - 3",23/07/2026 15:15,23/07/2027 15:15,26/09/2026 10:04
 615e4665-6ef3-4330-8ec4-0e1f6c31ce95,het.doctor,available,5.98,154.98,medium,low,3,namecheap,,,21/08/2026 02:20
-a53de76a-a528-4c7e-a163-403f91ab7135,exhibit.doctor,available,14.99,,high,low,7,name.com,,,
+a53de76a-a528-4c7e-a163-403f91ab7135,exhibit.doctor,available,5.98,154.98,high,low,7,namecheap,,,27/09/2026 05:10
 209ea90d-4b78-4593-9d86-467894b55f8e,attar.doctor,available,5.98,154.98,medium,low,5,namecheap,,,20/09/2026 19:21
-7359823e-233a-43d7-b6f0-b3c24267b3d9,sad.doctor,resell,14.99,151.99,high,low,3,"GoDaddy.com, LLC",15/03/2026 18:42,15/03/2027 18:42,24/09/2026 05:55
+7359823e-233a-43d7-b6f0-b3c24267b3d9,sad.doctor,resell,14.99,151.99,high,low,3,"GoDaddy.com, LLC",15/03/2026 18:42,15/03/2027 18:42,26/09/2026 08:46
 9318d4b2-7afc-4ccb-9e87-d977b956ba31,girl.doctor,available,14.99,,high,low,4,name.com,,,
 e0f07d6b-cb65-4b33-9412-387905954cd9,thing.doctor,available,14.99,,high,low,5,name.com,,,
 40052ab0-dcdf-4afd-ac7f-669f7ea313dc,tribute.doctor,available,14.99,,high,low,7,name.com,,,
@@ -690,13 +691,14 @@ f5739f70-7a86-4e08-a53f-b25d7d5a8776,dakar.doctor,available,14.99,,high,low,5,na
 ce161d87-9d4e-4dba-9e4a-6e5b7af21c53,finally.doctor,available,14.99,,high,low,7,name.com,,,
 0f145201-e4e8-4cb1-bb34-9ee225ac2ffc,gazillion.doctor,available,5.98,154.98,high,low,9,namecheap,,,11/09/2026 19:54
 d66a12cb-7a51-4e70-8383-aebe5f6eba72,colorize.doctor,available,5.98,154.98,medium,low,8,namecheap,,,12/08/2026 17:34
-10efd9a0-b6eb-4b4f-8e82-e2b8fabb2117,ceo.doctor,resell,,,high,low,3,,,,24/09/2026 13:36
 93002c72-2d4a-459f-bd50-ddfd92114916,fierce.doctor,available,14.49,116.99,high,low,6,namesilo,,,23/09/2026 01:48
 9da80dfa-d786-45ca-b474-90f6a7d679e8,perks.doctor,available,14.49,116.99,high,low,5,namesilo,,,20/09/2026 14:58
+f7364d0c-1160-4eea-89b8-c0d27f69e241,olson.doctor,available,14.49,116.99,medium,low,5,namesilo,,,27/09/2026 01:46
 2d7c9a61-bf41-4bc8-8833-b9107b140995,safely.doctor,available,5.98,154.98,high,low,6,namecheap,,,16/09/2026 00:26
 ee6cb57d-ee43-4a3c-9e68-af8e0f356a7d,loveliness.doctor,available,14.49,116.99,high,low,10,namesilo,,,22/09/2026 22:21
 a7254aeb-5cf1-47cc-a1ae-9d720cbd4cef,passe.doctor,available,5.98,154.98,medium,low,5,namecheap,,,14/08/2026 01:17
 febb2cdb-558f-4380-8609-8d7a1fb38af0,sprawl.doctor,available,5.98,154.98,medium,low,6,namecheap,,,10/09/2026 16:41
+138cabc7-3a4b-4c0f-bc98-68fadf570193,opportunity.doctor,available,5.98,154.98,high,low,11,namecheap,,,27/09/2026 02:17
 36154a94-3e7f-40b5-af50-0b7b9ed0b82c,closing.doctor,available,5.98,154.98,high,low,7,namecheap,,,08/09/2026 06:59
 4c95be00-8e97-4e41-a91c-0c0d978120b5,livable.doctor,available,5.98,154.98,high,low,7,namecheap,,,24/08/2026 07:42
 af54a67d-0cf5-41f9-a801-6aa21e9ae909,odor.doctor,available,14.49,116.99,high,low,4,namesilo,,,20/09/2026 08:25
@@ -705,7 +707,6 @@ bdf43e8d-6e79-4511-b09a-f2b53d81b3bb,vivacious.doctor,available,5.98,154.98,high
 9e1f1131-7b56-4089-9038-e2a951d6fe9f,protester.doctor,available,5.98,154.98,medium,low,9,namecheap,,,14/08/2026 12:41
 2741aaf8-d8b4-4ccf-a660-06a6c9039e56,glooming.doctor,available,5.98,154.98,medium,low,8,namecheap,,,20/08/2026 14:41
 e4433800-3eed-4cc4-ac02-4495bd069e5d,switches.doctor,available,14.49,116.99,medium,low,8,namesilo,,,16/09/2026 23:57
-86ef13fd-89f1-45ec-b03e-8d67c9c2434d,wolverine.doctor,resell,,,high,low,9,,,,24/09/2026 12:48
 8725e163-f4ba-4f7e-ace6-69f73158b709,relatively.doctor,available,14.99,,high,low,10,name.com,,,
 8668665e-7a24-44d6-9686-22937df391b7,farmer.doctor,available,5.98,154.98,high,low,6,namecheap,,,08/09/2026 06:02
 0d3044d7-a97b-4222-8158-9202f939e7b2,nazimova.doctor,available,14.49,116.99,medium,low,8,namesilo,,,18/09/2026 09:38
@@ -741,7 +742,7 @@ ee2b63c0-d6ad-44c8-81cc-e874d23968e4,forms.doctor,available,14.49,116.99,high,lo
 40d02868-30cd-4080-a564-dea2e8834f86,abscissa.doctor,available,5.98,154.98,medium,low,8,namecheap,,,16/09/2026 17:32
 6a12ea46-2472-4b6a-aeae-756755d38dd2,elysian.doctor,available,5.98,154.98,high,low,7,namecheap,,,16/08/2026 06:18
 d13ebb0c-c8c0-4995-a956-58f7b5196a80,nero.doctor,available,14.49,116.99,high,low,4,namesilo,,,25/09/2026 23:29
-2c3d0e9d-b2c4-4bcb-b9ed-937dac0afacf,pen.doctor,available,14.99,,high,low,3,name.com,,,
+2c3d0e9d-b2c4-4bcb-b9ed-937dac0afacf,pen.doctor,available,5.98,154.98,high,low,3,namecheap,,,27/09/2026 03:22
 1d1e48b3-fe93-414d-a8d3-6f5e0e8cff55,sly.doctor,available,14.49,116.99,high,low,3,namesilo,,,24/09/2026 01:29
 b19d7cf0-ffe0-44df-b4d1-aa83b7e76602,pouf.doctor,available,5.98,154.98,medium,low,4,namecheap,,,09/09/2026 08:13
 68621e93-e8ef-4c14-8ad4-32e24ba4d7ce,sunny.doctor,available,5.98,154.98,high,low,5,namecheap,,,12/08/2026 03:57
@@ -749,6 +750,7 @@ a0d3a4f9-5980-4750-82f9-9439b29ea6dc,curtly.doctor,available,5.98,154.98,medium,
 d9a7287a-87d7-4c3f-bdea-54eabfc4ab7f,oviparous.doctor,available,5.98,154.98,medium,low,9,namecheap,,,04/09/2026 22:09
 7ed16aa5-4969-4d3e-9e1b-a01fe7f4fc38,galilean.doctor,available,5.98,154.98,medium,low,8,namecheap,,,18/08/2026 19:37
 0440d0b4-128e-4628-930e-96e7925579f9,sniffy.doctor,available,5.98,154.98,medium,low,6,namecheap,,,21/08/2026 01:27
+569bd6bf-1241-4084-9023-d2326404cf9a,judd.doctor,available,14.49,116.99,medium,low,4,namesilo,,,27/09/2026 07:52
 2476ecf5-748d-428c-be57-8cf66d3193d8,alnico.doctor,available,14.49,116.99,medium,low,6,namesilo,,,18/09/2026 12:50
 31affaf3-8806-4716-84e2-63b62fb5e7df,bale.doctor,available,14.49,116.99,medium,low,4,namesilo,,,21/09/2026 21:49
 6a2d756b-fae4-4b8b-8f5b-0ec2e9e888c9,illative.doctor,available,5.98,154.98,medium,low,8,namecheap,,,21/08/2026 19:47
@@ -796,6 +798,7 @@ d604c363-1254-4d57-9366-52dc3489f63e,paltry.doctor,available,5.98,154.98,medium,
 ec79aa09-d8ed-4b36-afae-0fc6569392ac,acris.doctor,available,14.49,116.99,medium,low,5,namesilo,,,17/09/2026 03:16
 7d944e58-c4f8-4aee-8d56-62447549afe9,adaptation.doctor,available,14.49,116.99,high,low,10,namesilo,,,17/09/2026 06:27
 94d03722-947a-4c3a-9f5c-9b45decb0ba8,min.doctor,available,5.98,154.98,high,low,3,namecheap,,,25/08/2026 00:58
+4ac9677f-6013-44c3-838c-5256860c164c,celebrating.doctor,available,5.98,154.98,high,low,11,namecheap,,,27/09/2026 06:50
 84889ab5-47d4-49db-a799-84658ff6ac6d,squatting.doctor,available,5.98,154.98,medium,low,9,namecheap,,,10/09/2026 17:35
 a8112534-9161-4570-9cd2-a39b98feeb4a,milanese.doctor,available,5.98,154.98,medium,low,8,namecheap,,,24/08/2026 22:53
 221f1fa9-d15d-47f4-ae6f-d04eb3f00347,coagulate.doctor,available,5.98,154.98,medium,low,9,namecheap,,,12/08/2026 13:27
@@ -832,9 +835,8 @@ d74bb6c3-a985-46dc-8835-ce103479f7e9,grammatic.doctor,available,5.98,154.98,medi
 5831fbe1-43b2-4c05-a965-6c1809b67035,cantonment.doctor,available,5.98,154.98,medium,low,10,namecheap,,,11/08/2026 15:52
 a7cba1d6-f6da-4b72-99df-dc97dd4d6de1,sugarless.doctor,available,14.49,116.99,medium,low,9,namesilo,,,19/09/2026 15:11
 a0abffd8-e26d-4f9d-99a0-9c1193897268,fooling.doctor,available,5.98,154.98,high,low,7,namecheap,,,18/08/2026 10:35
-7a5084a9-2d8b-48dc-a769-fc118b85c132,duchess.doctor,resell,,,high,low,7,"Go China Domains, LLC",02/11/2016 16:00,02/11/2026 16:00,
 7d834f01-dcdc-4a2a-b643-29a2c259f542,fever.doctor,available,14.99,,high,low,5,name.com,,,
-08d2067e-cb7a-4ca4-bc26-2e97e45dcb19,passive.doctor,available,14.99,,high,low,7,name.com,,,
+08d2067e-cb7a-4ca4-bc26-2e97e45dcb19,passive.doctor,available,14.49,116.99,high,low,7,namesilo,,,27/09/2026 02:56
 54753ab1-d947-4b6c-9a61-5293c268bd24,overfed.doctor,available,5.98,154.98,medium,low,7,namecheap,,,04/09/2026 20:33
 1bd2cb21-83c3-4cdf-ab96-96298d32de3d,rests.doctor,available,14.49,116.99,medium,low,5,namesilo,,,18/09/2026 07:14
 63aa42ab-2743-49eb-bdc4-2c2e0b474d5d,moi.doctor,available,14.99,,high,low,3,name.com,,,
@@ -869,6 +871,7 @@ c003f39f-60ca-4ce7-a6df-cfce3c409fa6,zealot.doctor,available,5.98,154.98,medium,
 12c6b3df-f452-4b6f-9692-d99f37617a01,affections.doctor,available,14.49,116.99,medium,low,10,namesilo,,,17/09/2026 07:05
 c57fd37e-594f-4ca7-bcaf-2ec515529b5b,fling.doctor,available,14.99,,high,low,5,name.com,,,
 53a71f62-f19d-43cb-8b02-8cbce960fa52,energetic.doctor,available,5.98,154.98,high,low,9,namecheap,,,17/08/2026 05:58
+3cc92af8-829d-40b3-b1b5-273d4a997a0e,prosecutor.doctor,available,5.98,154.98,high,low,10,namecheap,,,27/09/2026 05:05
 dd564371-ad03-477a-8021-15f672c8482b,pratt.doctor,available,14.49,116.99,high,low,5,namesilo,,,25/09/2026 12:12
 b52a1d48-48bf-4fb0-8873-ee1125f537a3,flushed.doctor,available,5.98,154.98,high,low,7,namecheap,,,18/08/2026 09:26
 c2b76aac-f496-434b-8ab3-381eb6be550c,cleavage.doctor,available,14.49,116.99,high,low,8,namesilo,,,24/09/2026 15:29
@@ -879,7 +882,7 @@ bdaa4a51-df27-40a8-a64e-e97b6c242caf,austerlitz.doctor,available,14.49,116.99,me
 8fa3f283-2b30-4a6b-9859-fd7ef5b77710,astrometry.doctor,available,5.98,154.98,medium,low,10,namecheap,,,20/09/2026 17:53
 69fe7c43-1450-46cf-910b-cb8d8410e9ab,cypriot.doctor,available,14.99,151.99,high,low,7,name.com,,,13/08/2026 14:08
 4fae6eb3-0275-4a79-ae89-32c5cb3eac86,smell.doctor,available,14.99,,high,low,5,name.com,,,
-b8e10401-3540-4104-b057-7d83653fe327,north.doctor,resell,,,high,low,5,"GoDaddy.com, LLC",26/03/2019 18:53,26/03/2027 18:53,25/09/2026 23:09
+b8e10401-3540-4104-b057-7d83653fe327,north.doctor,resell,,,high,low,5,"GoDaddy.com, LLC",26/03/2019 18:53,26/03/2027 18:53,26/09/2026 07:48
 e3df3289-07c3-4139-b943-39eaed6d2374,smasher.doctor,available,5.98,154.98,high,low,7,namecheap,,,22/08/2026 16:38
 eaf1d656-aa6b-4d99-a124-ec5edf177b48,aragonite.doctor,available,5.98,154.98,medium,low,9,namecheap,,,19/09/2026 23:43
 4070f565-f1f1-4022-87b3-7354a6cf0025,kitchen.doctor,available,14.99,,high,low,7,name.com,,,
@@ -888,12 +891,12 @@ eaf1d656-aa6b-4d99-a124-ec5edf177b48,aragonite.doctor,available,5.98,154.98,medi
 de9d4c72-d62c-44d3-913a-e45313403f84,waters.doctor,available,14.99,,high,low,6,name.com,,,
 f723dab0-0fb9-4690-abb4-cf51655c4622,colored.doctor,available,5.98,154.98,high,low,7,namecheap,,,22/09/2026 20:23
 697428f8-108e-476b-be1c-8bc6c806ba27,riemann.doctor,available,14.49,116.99,high,low,7,namesilo,,,23/09/2026 09:54
-bc29753b-6bc4-43ad-a81f-3bb8ae0829ea,tentative.doctor,available,14.99,,high,low,9,name.com,,,
+bc29753b-6bc4-43ad-a81f-3bb8ae0829ea,tentative.doctor,available,14.49,116.99,high,low,9,namesilo,,,27/09/2026 07:00
 9ca88140-259a-49dd-a47c-05326650c09c,smiled.doctor,available,14.49,116.99,medium,low,6,namesilo,,,18/09/2026 01:26
 b6fc5442-9157-4b50-a3ca-c1ce6c9dc9ea,pursuit.doctor,available,14.49,116.99,high,low,7,namesilo,,,21/09/2026 09:41
 2ccd3a84-a44f-4084-9da2-76a59a887a79,viewable.doctor,available,5.98,154.98,high,low,8,namecheap,,,13/09/2026 05:37
 8fc176f4-35d8-4a33-90ab-1468e75c86a8,russell.doctor,available,14.49,116.99,high,low,7,namesilo,,,16/09/2026 13:01
-881ea205-1e2b-48d4-aa88-e8978afe93a2,deal.doctor,resell,,,high,low,4,"Sav.com, LLC - 4",23/07/2026 15:15,23/07/2027 15:15,19/09/2026 16:06
+881ea205-1e2b-48d4-aa88-e8978afe93a2,deal.doctor,resell,,,high,low,4,"Sav.com, LLC - 4",23/07/2026 15:15,23/07/2027 15:15,26/09/2026 05:26
 a6668bef-d8c6-40d4-b8df-83cac35022e4,advisedly.doctor,available,5.98,154.98,medium,low,9,namecheap,,,13/09/2026 17:38
 9a5eae54-5eff-4297-9ac5-d54ce661116d,clitoris.doctor,available,14.49,116.99,high,low,8,namesilo,,,24/09/2026 15:48
 3df1ba55-5244-4b40-99c0-85d55704e87f,ergonomics.doctor,available,5.98,154.98,high,low,10,namecheap,,,23/09/2026 17:53
@@ -914,7 +917,6 @@ f47967a3-118f-4d6d-b1f3-44f867ab51b4,structured.doctor,available,5.98,154.98,hig
 b2968c94-7330-4b5e-b8da-ed4f10bae3ce,risible.doctor,available,5.98,154.98,medium,low,7,namecheap,,,12/08/2026 19:02
 4dfa86ac-14e9-4e52-b9d5-ca329a2c5e30,cowpens.doctor,available,14.49,116.99,medium,low,7,namesilo,,,22/09/2026 14:56
 35f3c231-4391-4668-90aa-11eaab55dff7,whopping.doctor,available,5.98,154.98,high,low,8,namecheap,,,08/08/2026 13:14
-d996cdf9-c84e-4210-9430-e3689743e113,tiger.doctor,resell,,,high,medium,5,,,,25/09/2026 09:46
 2d0ba1e6-1e21-46bb-92c6-1c385ccd51c6,brute.doctor,available,5.98,154.98,high,low,5,namecheap,,,
 0b145156-b738-49a9-874a-830e3c180da8,apus.doctor,available,5.98,154.98,medium,low,4,namecheap,,,19/09/2026 22:43
 24ce7265-b68e-4100-8fbf-5feabb3f1e4b,glance.doctor,available,14.99,,high,low,6,name.com,,,
@@ -957,7 +959,7 @@ dc36539a-a8b8-4335-b4c5-869e398b0a42,xxii.doctor,available,14.49,116.99,high,low
 94204ffa-9105-40ce-9ca7-8c7fd7d46749,concentrated.doctor,available,14.99,,high,low,12,name.com,,,
 22760dce-a665-4b43-b366-38984cb838bb,ailanthus.doctor,available,5.98,154.98,medium,low,9,namecheap,,,17/09/2026 21:07
 8927054f-e070-4251-ad4f-f0b4c6c424f6,nidifugous.doctor,available,5.98,154.98,low,low,10,namecheap,,,03/09/2026 17:08
-9d14398e-7170-4fdc-b504-d7d4f1806a9c,butt.doctor,resell,,,medium,low,4,"Sav.com, LLC",11/05/2025 04:57,11/05/2026 04:57,
+9d14398e-7170-4fdc-b504-d7d4f1806a9c,butt.doctor,available,14.49,116.99,medium,low,4,namesilo,,,26/09/2026 04:41
 ab328966-52a7-4911-af2d-2c93c96c96c6,temple.doctor,available,,,high,high,6,,,,
 9e1e8141-bf18-47e1-8c94-bba5224daca1,nub.doctor,available,5.98,154.98,high,low,3,namecheap,,,14/09/2026 23:53
 e92188e2-5e67-445a-aa23-f7a79d34d150,statewide.doctor,available,5.98,154.98,high,low,9,namecheap,,,10/09/2026 19:10
@@ -975,9 +977,9 @@ e21f6cf0-04d3-47d1-adf6-45f6810f670b,cali.doctor,available,14.99,,high,low,4,nam
 d3530d7e-f1c1-4f4d-bb2b-42c6e3db662a,chapter.doctor,available,14.49,116.99,high,low,7,namesilo,,,24/09/2026 13:43
 db8523b5-b102-4f6d-8076-192bad5e4000,parts.doctor,available,14.49,116.99,high,low,5,namesilo,,,25/09/2026 09:47
 4cce6886-3ee1-4593-a5a1-b50f19539801,descendant.doctor,available,5.98,154.98,high,low,10,namecheap,,,14/08/2026 03:14
-63f2630d-f239-4760-a1ec-6533543034b2,navy.doctor,resell,,,high,low,4,"GoDaddy.com, LLC",01/04/2019 19:28,01/04/2027 19:28,
+63f2630d-f239-4760-a1ec-6533543034b2,navy.doctor,resell,,,high,low,4,"GoDaddy.com, LLC",01/04/2019 19:28,01/04/2027 19:28,26/09/2026 07:43
 111d1c15-3519-448e-8f80-f871b9c288db,appreciative.doctor,available,14.99,,high,low,12,name.com,,,
-6ccc047c-ff8f-468f-93bc-4dc05d7c82b5,principal.doctor,available,14.99,,high,low,9,name.com,,,
+6ccc047c-ff8f-468f-93bc-4dc05d7c82b5,principal.doctor,available,14.49,116.99,high,low,9,namesilo,,,27/09/2026 05:53
 9416bfbd-6af6-4cff-8d17-f1071f03ed21,illiterate.doctor,available,5.98,154.98,medium,low,10,namecheap,,,21/08/2026 20:03
 3800fd30-0c7c-4a8d-a107-92bc00c1b530,bricks.doctor,available,14.99,,high,low,6,name.com,,,
 bfab1712-7c61-463e-b050-88b8da6f75a7,kiss.doctor,available,14.99,,high,low,4,name.com,,,
@@ -997,5 +999,3 @@ b8a12e8e-77ea-4d4e-8b2b-653c41edefab,fluorine.doctor,available,14.49,116.99,medi
 99080aea-fd38-4c19-b3a3-ee136f4908e0,skirting.doctor,available,14.49,116.99,medium,low,8,namesilo,,,20/09/2026 08:31
 0aeb9258-2a9d-4af7-a4d8-0c8d9d0de46e,bonkers.doctor,available,5.98,154.98,medium,low,7,namecheap,,,06/08/2026 20:40
 c73dbf2a-86ca-4773-bb27-f4fe88764df1,abroach.doctor,available,5.98,154.98,medium,low,7,namecheap,,,
-e63b6d7e-4a0d-493a-b830-f30276d95305,lavoisier.doctor,available,14.49,116.99,medium,low,9,namesilo,,,19/09/2026 15:25
-1f30da57-bab0-44f1-a7d7-8e54ad4dcebe,boric.doctor,available,5.98,154.98,medium,low,5,namecheap,,,10/08/2026 19:48
